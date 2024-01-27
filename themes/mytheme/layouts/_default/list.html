@@ -1,0 +1,13 @@
+{{ define "main" }}
+	<h1>{{ .Title }}</h1>
+	{{ .Content }}
+	<hr />
+	{{ range .Pages }}
+		<div class="prev">
+			<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+			{{ .Summary }}
+			{{ partial "metadata" . }}
+			<hr />
+		</div>
+	{{ end }}
+{{ end }}

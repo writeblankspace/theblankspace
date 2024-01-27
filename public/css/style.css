@@ -1,0 +1,47 @@
+html {
+	font-family: sans-serif;
+  	height: 100%;
+  	width: 100%;
+}
+
+body {
+	display: flex;
+	align-content: flex-start;
+	justify-content: center;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.main {
+	width: 80ch;
+	max-width: 80ch;
+	color: #595959;
+}
+
+.title {
+	font-size: 3em;
+	text-align: center;
+}
+
+.title a {
+	text-decoration: none !important;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+	color: #90b297;
+}
+
+hr {
+	border: none;
+}
+
+.greyed {
+	color: #929b94;
+}
+
+.greyed a {
+	color: #929b94;
+}
+
+.prev {
+}

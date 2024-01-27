@@ -1,0 +1,6 @@
+{{ define "main" }}
+<p class="greyed"><time>{{ .PublishDate.Format "January 2, 2006" }}</time> |
+{{ .ReadingTime }} {{ if eq .ReadingTime 1 }} minute {{ else }} minutes {{ end }} read</p>
+<h2>{{ .Title }}</h2>
+{{ .Content }}
+{{ end }}
