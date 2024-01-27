@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Blankspace</title>
+    <title>My Blankspace</title>
     <link>https://example.org/</link>
-    <description>Recent content on The Blankspace</description>
+    <description>Recent content on My Blankspace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Jan 2024 12:20:41 +0300</lastBuildDate>

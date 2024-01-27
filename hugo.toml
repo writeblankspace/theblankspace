@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'The Blankspace'
+title = 'My Blankspace'
 theme = 'mytheme'
