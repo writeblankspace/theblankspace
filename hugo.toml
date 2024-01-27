@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://myblankspace.netlify.app/'
 languageCode = 'en-us'
 title = 'My Blankspace'
 theme = 'mytheme'
