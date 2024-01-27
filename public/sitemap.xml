@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://myblankspace.netlify.app/posts/</loc>
     <lastmod>2024-01-27T13:13:26+03:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://myblankspace.netlify.app/</loc>
     <lastmod>2024-01-27T12:20:41+03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/my-first-post/</loc>
+    <loc>https://myblankspace.netlify.app/posts/my-first-post/</loc>
     <lastmod>2024-01-27T11:52:50+03:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://myblankspace.netlify.app/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://myblankspace.netlify.app/tags/</loc>
   </url>
 </urlset>
