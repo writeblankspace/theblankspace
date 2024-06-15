@@ -2,6 +2,7 @@ html {
 	font-family: sans-serif;
   	height: 100%;
   	width: 100%;
+	--fakeblack: #595959;
 }
 
 body {
@@ -15,7 +16,7 @@ body {
 .main {
 	width: 80ch;
 	max-width: 80ch;
-	color: #595959;
+	color: var(--fakeblack);
 }
 
 .title {
@@ -27,21 +28,20 @@ body {
 	text-decoration: none !important;
 }
 
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-	color: #90b297;
-}
-
 hr {
 	border: none;
 }
 
-.greyed {
-	color: #929b94;
+.greyed * {
+	font-weight: 300;
+	color: var(--fakeblack);
 }
 
-.greyed a {
-	color: #929b94;
+.prev, .post {
+	padding: 0 2em 0.8em;
+	border: solid 1px var(--fakeblack);
 }
 
-.prev {
+.prev + .prev {
+	margin-top: 1.5em;
 }

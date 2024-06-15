@@ -1,7 +1,6 @@
 {{ define "main" }}
 	<h1>{{ .Title }}</h1>
 	{{ .Content }}
-	<hr />
 	{{ range .Pages }}
 		{{ partial "preview" . }}
 	{{ end }}
