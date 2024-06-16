@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writeblankspace</title>
+    <title>WriteBlankSpace</title>
     <link>https://myblankspace.netlify.app/</link>
-    <description>Recent content on Writeblankspace</description>
+    <description>Recent content on WriteBlankSpace</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Jun 2024 11:59:15 +0300</lastBuildDate>
