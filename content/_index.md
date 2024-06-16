@@ -4,12 +4,14 @@ date = 2024-01-27T12:20:41+03:00
 draft = false
 +++
 
-Heyyoooo cyber-traveller!
+Hi!!! Welcome to my little corner of the internet.
 
-Welcome to the blog of [yours truly](https://shonk.social/@writeblankspace). I post the most random stuff here, especially those that are so long or so obnoxious it will likely just fill the Fedi feeds with my ramblings.
+You can read my [posts](posts/) or read the [about page](posts/about/).
 
-I feel obligated to give you couple of warnings: please tread carefully on these treacherous grounds as you do not know what unhinged idiocy you shall encounter in these uh... posts. You have been warned. You can view them here: [posts](posts/).
+You might know me better as the *mercurial yapper*, as in my [Fediverse account](https://shonk.social/@writeblankspace). I'm interested in tech, music, linguistics, mythology and I'm a huge swiftie. Sometimes I'm goofy. Sometimes I rant. Sometimes I wax poetic, whether that's actual poetry or just straight-out yapping.
 
-On a lighter note, have a good day. You will likely be seeing a lot of posts regarding my current obsessions (such as music, literature, linguistics, other arts, programming, etc). Please do *not* consider any of this content, by any means, true — and rather, just some random text typed up by a teenager who isn't really bothered to do any research or fact-checking or even referencing because all this mostly just goes straight out of my head and into a text editor.
+This site is written and by me and generated into a static site with [Hugo](https://gohugo.io). I may occasionally abandon it and leave it with horrifyingly outdated (and most likely cringy) stuff. Please notify me if that's the case.
 
-For more meta, I suggest you see my [About page](posts/about/).
+And... don't say I didn't warn ya.
+
+---

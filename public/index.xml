@@ -6,8 +6,15 @@
     <description>Recent content on Writeblankspace</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jan 2024 15:31:15 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 11:59:15 +0300</lastBuildDate>
     <atom:link href="https://myblankspace.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Update</title>
+      <link>https://myblankspace.netlify.app/posts/an-update/</link>
+      <pubDate>Sun, 16 Jun 2024 11:59:15 +0300</pubDate>
+      <guid>https://myblankspace.netlify.app/posts/an-update/</guid>
+      <description>Hi. Let&amp;rsquo;s see, my last post here was back in 28 Jan 2024. It&amp;rsquo;s been four months!&#xA;I just finished polishing it up yesterday with some minor design changes. With the publish of this post, I got rid of a lot of cringy unhinged text on the main pages. The posts remain unchanged except for an update on my Fediverse handle.&#xA;As of right now, Fedirings aren&amp;rsquo;t working. For some reason my emails never end up making the issue on their tracker.</description>
+    </item>
     <item>
       <title>About</title>
       <link>https://myblankspace.netlify.app/posts/about/</link>
