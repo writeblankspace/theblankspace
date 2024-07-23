@@ -28,9 +28,18 @@ body {
 	text-decoration: none !important;
 }
 
+img {
+	width: auto;
+	max-width: 100%;
+}
+
 hr {
 	border: solid 1px var(--fakeblack);
 	margin: 2em 0;
+}
+
+pre:has(> code) {
+	padding: 1.5em;
 }
 
 .greyed * {

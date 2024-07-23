@@ -1,40 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WriteBlankSpace</title>
-    <link>https://myblankspace.netlify.app/</link>
-    <description>Recent content on WriteBlankSpace</description>
+    <title>Anotherrr Archive on WriteBlankSpace</title>
+    <link>https://myblankspace.netlify.app/posts/anotherrr-archive/</link>
+    <description>Recent content in Anotherrr Archive on WriteBlankSpace</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://myblankspace.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://myblankspace.netlify.app/posts/anotherrr-archive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Old index page</title>
       <link>https://myblankspace.netlify.app/posts/anotherrr-archive/old-index/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://myblankspace.netlify.app/posts/anotherrr-archive/old-index/</guid>
       <description>Hello and welcome to my archive! This is where I add some random reads and other things that I just wanna add. I add new stuff here every so often, about pretty much any topic I like.</description>
-    </item>
-    <item>
-      <title>An Update</title>
-      <link>https://myblankspace.netlify.app/posts/an-update/</link>
-      <pubDate>Sun, 16 Jun 2024 11:59:15 +0300</pubDate>
-      <guid>https://myblankspace.netlify.app/posts/an-update/</guid>
-      <description>Hi. Let&amp;rsquo;s see, my last post here was back in 28 Jan 2024. It&amp;rsquo;s been four months!&#xA;I just finished polishing it up yesterday with some minor design changes. With the publish of this post, I got rid of a lot of cringy unhinged text on the main pages.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://myblankspace.netlify.app/posts/about/</link>
-      <pubDate>Sun, 28 Jan 2024 15:31:15 +0300</pubDate>
-      <guid>https://myblankspace.netlify.app/posts/about/</guid>
-      <description>I dunno who&amp;rsquo;d be interested enough to view this page — or heck, even this website — but if you truly are curious then feel free to scroll through all this meta stuff.</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>https://myblankspace.netlify.app/posts/my-first-post/</link>
-      <pubDate>Sat, 27 Jan 2024 11:52:50 +0300</pubDate>
-      <guid>https://myblankspace.netlify.app/posts/my-first-post/</guid>
-      <description>I&amp;rsquo;m just starting out and making this cool new Hugo website as a blog teehee. This is called My First Post because that&amp;rsquo;s what the quickstart told me to call it :D.</description>
     </item>
     <item>
       <title>The best FREE note taking apps 2021</title>
