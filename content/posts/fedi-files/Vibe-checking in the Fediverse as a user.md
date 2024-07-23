@@ -8,7 +8,7 @@ Woohoo! You're in your Fediverse instance, and...
 
 *OH NO!* You just saw something that makes you want to bleach your eyes, and rip them eyeballs out of their sockets, and bleach them again! Or perhaps a post so horrible, you're willing to write a rather colourful 10-paragraph explanation as to why their opinions are *wrong*.
 
-### Our scenario
+## Our scenario
 
 You're in an instance called **weLoveCats.hehe**. Yes, I know that `.hehe` is not a valid TLD, but that's because our instance here is a fake one for the sake of example.
 
@@ -18,7 +18,7 @@ Unfortunately, you can't have perfection all the time. Some bad stuff still gets
 
 NOTE: not sure how these apply to different Fediverse software, but they definitely work in Mastodon and Misskey.
 
-### Case 1: the rando you just don't like for no particular reason
+## Case 1: the rando you just don't like for no particular reason
 
 You're doomscrolling on cat pics again. And then... you see someone who said that they didn't like cats.
 
@@ -28,7 +28,7 @@ Luckily, you can **mute** them!
 
 You might even be able to set the duration of that mute, but at any rate, you can rest easy as you won't be seeing any of their posts unless they @mention you.
 
-### Case 2: the meanie
+## Case 2: the meanie
 
 So you were browsing your feed and commenting on cat vids and someone slides into your profile and DMs you: "what a miserable %$#@!".
 
@@ -40,13 +40,13 @@ Behold: the **block**.
 
 You can block this user and thus you won't be able to see any of their posts or interactions with you. You won't be able to see anyone's replies to them. They will be removed from your followers. They won't be notified of you blocking them.
 
-### Case 3: the rule-breaker
+## Case 3: the rule-breaker
 
 But wait! A user like that... saying a slur like that... you don't think they should be anywhere near your server!
 
 You can **report** this user to your server moderators. They can decide what to do from there, whatever it is. If the user isn't from your instance, you can also choose to report them to *their* instance so *their* moderators can take action.
 
-### Case 4: the bad army
+## Case 4: the bad army
 
 Turns out, there are tons of randos you don't like for no particular reason. Or tons of meanies, or tons of rule-breakers.
 
@@ -54,7 +54,7 @@ Turns out, there are tons of randos you don't like for no particular reason. Or 
 
 You can do these actions for instances too! You can **mute, block and report instances** as needed.
 
-### Case 5: the bad words
+## Case 5: the bad words
 
 So your timelines are now free of horrible people. Yipee!
 
@@ -68,7 +68,7 @@ How advanced these critera can be depends on your instance's software. Some migh
 
 If all these dog posts annoy you, you might want to filter out the word "dog", or perhaps go further and filter similar words like "dogs", "pup", "puppy", "puppies" and such.
 
-### Some final words
+## Some final words
 
 And that's some things you can do as a user to make sure your timelines pass the vibe checks and you feel nice and chill in there!
 

@@ -19,7 +19,7 @@ I would very much like to tell you a dramatic story - that I was self-taught, th
 
 Alas, my story isn't like Taylor Swift's computer mechanic story. But here's mine.
 
-### Guitar at school
+## Guitar at school
 
 I thought it's cool to play guitar. So in school I enrolled for the extra-curricular activity (ECA) for guitar in year 6.
 
@@ -39,7 +39,7 @@ However, it was mostly hard lol. We only played one chord at a time with a strum
 
 But even then it was hard for me just to position my fingers on the frets. Like, 4 fingers is a little too much, right?
 
-### Cornelia Street
+## Cornelia Street
 
 So, you might ask, what song did you *seriously* play on guitar? Like, all chords, and you sing along? Easy: Cornelia Street live in Paris, by Taylor Swift.
 
@@ -67,7 +67,7 @@ Meanwhile, the winners were my cousins, who played Coffee by Beabadobee on ukule
 
 The ukulele is a really cute instrument, with a pleasant sound.
 
-### Playing the ukulele
+## Playing the ukulele
 
 Naturally, my parents wanted me to play ukulele - "it's a good opportunity!". I admit I was excited. And sure enough, it was *great*. I mean, seriously, C G Am F chords and you only need three fingers!
 
@@ -87,7 +87,7 @@ I could play, like, almost any song with the strumming patter DDU UDU or DDU or 
 
 But D UUD UUD DU was forgotten for its difficulty.
 
-### Guitar again
+## Guitar again
 
 So, how come I love guitar now? Well, my dad said I should learn guitar again, since I play the ukulele so good now. And the guitar is the best instrument to learn, better than the ukulele.
 
@@ -107,6 +107,6 @@ Overtime, I also learned barre chords; it's still a bit buzzy, but it works for 
 
 I love guitar now haha.
 
-### Wait, what's my point?
+## Wait, what's my point?
 
 IDK I just wanna tell you. Why did you decide to read this article? Maybe just check out these other articles instead...

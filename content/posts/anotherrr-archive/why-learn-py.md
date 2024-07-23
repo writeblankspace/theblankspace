@@ -17,7 +17,7 @@ Something a lot of beginners ask. When you begin exposure to the world of progra
 
 Python is an amazing language. When I was starting out, I tried JavaScript - but Python eventually became more ideal for me, especially since I'm not much into webdev.
 
-### The difference between PY and JS
+## The difference between PY and JS
 
 Python and JavaScript are really similar in many ways. Both languages have been updating and evolving to support what the other has. For example, JavaScript became an object-oriented programming language to par Python.
 
@@ -27,7 +27,7 @@ If JavaScript and Python are so similar, and Python doesn't support web developm
 
 JavaScript may be really popular, but so is Python. Many beginners tend to switch from JS to PY for one main reason: Python is simple and easy, and achieves the same things as JavaScript (aside from webdev).
 
-### Assignment
+## Assignment
 
 The first thing you'll learn about Python after coming from JavaScript is that it's *dead simple*. In JavaScript, you'll have to know the differences between `let`, `const`, and `var` variables. They have rules as to how they're used and such.
 
@@ -91,7 +91,7 @@ Very simple. Very straightforward.
 
 The best thing about Python is that an ordinary human can read everything without needing a knowledge of code. You won't have to bother about `const` and `let`, and you know that `def funcOne():` would be a function, and the indented block after it will be the function's code. The loop is also *way* easier to understand. Need I say more?
 
-### Blocks
+## Blocks
 
 Here's another difference: in JavaScript, we deal with `{}`s for blocks. In Python... we just use `:` and an indent.
 
@@ -117,7 +117,7 @@ By the way, a `pass` statement does literally nothing except get rid of errors f
 
 Looking at the two examples, Python looks a lot neater, without anything unnecessary. We got rid of annoying semicolons as well as brackets!
 
-### Wait, did I blow your mind?
+## Wait, did I blow your mind?
 
 Okay, it seems like I gave you a full, sub-standard lesson on how to go from JavaScript to Python. But long story short, Python is *so* simple. I made the move and ended up writing my bots in Python (rip JavaScript). I hope you do too!
 

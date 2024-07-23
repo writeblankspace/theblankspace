@@ -19,7 +19,7 @@ That image is from Unsplash. It's not mine and I don't drink coffee. I don't use
 
 \*takes a deeps breath\* Yeah, just a disclaimer. You might get the wrong thing about me or something.
 
-### Hobbies!
+## Hobbies!
 
 I think Hobbies mostly define you and the things you like. Well, I have a lot of hobbies. 
 
@@ -27,7 +27,7 @@ You'll find that my biggest hobbies are development (computer programming - don'
 
 I also enjoy listening to music, especially Taylor Swift, and I can play the guitar and the ukulele.
 
-### Development
+## Development
 
 Alright, I should probably explain. From everything I've heard, people either think I'm a computer mechanic or a person who types nonstop into a green-and-black screen and hacks random people.
 
@@ -45,7 +45,7 @@ I prefer Python, where all you gotta do is use a colon and an indent. It looks n
 
 Speaking of which, you might want to look at this article: [Why Python is better than JavaScript](/a/1628726400-why-learn-py).
 
-### Music and literature
+## Music and literature
 
 Music, poetry, and books. The three best things in the world. I like writing songs, and if I can't write a song, it's going to be a poem. 
 
@@ -65,7 +65,7 @@ I used to read lots of Enid Blyton too; they're often childish and unrealistic, 
 
 Other stuff I like are Wonder (about a kid with a deformity - it's really good!), Molly Moon (hypnotism is the best) and The Land Of Stories (fairytales in real life, but I've outgrown it).
 
-### Harry Potter and Percy Jackson
+## Harry Potter and Percy Jackson
 
 If you want recommendations, it's always Harry Potter and Percy Jackson. 
 
@@ -79,7 +79,7 @@ Percy Jackson is mostly about Mythology. It's humorous and modern. You'll find t
 
 The plot is good, although not as delicate as Harry Potter, but it really compensates with the entertainment factor. 
 
-### How I identify myself in terms of fandoms
+## How I identify myself in terms of fandoms
 
 I mean, it's impossible to be a teenager and not be in a fandom.
 
@@ -93,13 +93,13 @@ How about Percy Jackson? What's my favourite god or goddess? My first choice wou
 
 I think I prefer Apollo - the god of music, poetry, healing, and a bunch of other stuff. I don't quite like the *god of bachelors* bit nor do I care about the *sun* bit, but music and poetry? Definitely!
 
-### Social media
+## Social media
 
 No, I'm not a social media kind of person. More of the person who lurks, comments and reposts, then I end up deleting my posts for aesthetic purposes because I gave up on something.
 
 Thus, I often work on the computer, so it's not exactly convenient for social media, is it? The best I can do is edit some Unsplash stuff or go on Canva and design some posts.
 
-### Wrapping up
+## Wrapping up
 
 That's all. I don't know what else you want to know. Now you know my fanbases and all...
 

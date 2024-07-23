@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/fedi-files/Diving headfirst into the Fediverse.md",
+                "file": "posts/fedi-files/Vibe-checking in the Fediverse as a user.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/fedi-files/Diving headfirst into the Fediverse.md",
+                "file": "posts/fedi-files/Vibe-checking in the Fediverse as a user.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/fedi-files/Diving headfirst into the Fediverse.md",
+                "file": "posts/fedi-files/Vibe-checking in the Fediverse as a user.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/fedi-files/Diving headfirst into the Fediverse.md"
+                "file": "posts/fedi-files/Vibe-checking in the Fediverse as a user.md"
               }
             }
           }
@@ -149,9 +149,22 @@
   "active": "42a8371d06241daa",
   "lastOpenFiles": [
     "posts/fedi-files/How your instance admins can vibe-check other instances in the Fediverse.md",
-    "posts/fedi-files/Vibe-checking in the Fediverse as a user.md",
     "posts/fedi-files/Diving headfirst into the Fediverse.md",
     "posts/fedi-files/_index.md",
+    "posts/anotherrr-archive/why-you-should-get-vaccinated.md",
+    "posts/anotherrr-archive/why-learn-py.md",
+    "posts/anotherrr-archive/trigger.md",
+    "posts/anotherrr-archive/short-poetry.md",
+    "posts/anotherrr-archive/old-index.md",
+    "posts/anotherrr-archive/note-taking-apps.md",
+    "posts/anotherrr-archive/learning-guitar.md",
+    "posts/anotherrr-archive/insta-web.md",
+    "posts/anotherrr-archive/insta-rant.md",
+    "posts/anotherrr-archive/covid-19-isn't-just-a-virus.md",
+    "posts/anotherrr-archive/about-this-website.md",
+    "posts/anotherrr-archive/about-me.md",
+    "posts/anotherrr-archive/_index.md",
+    "posts/fedi-files/Vibe-checking in the Fediverse as a user.md",
     "posts/_index.md",
     "posts/about.md",
     "posts/my-first-post.md",

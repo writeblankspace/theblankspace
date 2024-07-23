@@ -17,13 +17,13 @@ If you know me, I love metaphors to recreate things in way everyday people could
 
 Think of the virus as a video game with only one life. The stronger the virus is, the higher its level is. And our immune system has its own AI that learns how to best kill the viruses. By default, it has almost no idea.
 
-### Practice mode: vaccines
+## Practice mode: vaccines
 
 The vaccine introduces a weak virus to your body. Let's say the vaccine is like a 'practice mode'. You practice with a weak blueprint of a virus that's too weak to really kill you, but you have no idea how to kill it.
 
 Your body starts trying out techniques as to how to kill that little virus. Eventually, it finds out the perfect combination of attacks and kills the weak little virus.
 
-### Level 20: the virus
+## Level 20: the virus
 
 Then you get the actual virus at level 20. It's a strong one, but you know its weaknesses and your body knows exactly how to kill it. The virus tries to fight back, unlike the practice mode virus.
 
@@ -33,7 +33,7 @@ Meanwhile an unvaccinated person - someone who hasn't done the practice mode - g
 
 It does the same things as it would in practice mode, except the virus is a lot stronger. At some point, the body will be able to kill the virus, but more damage has already been done.
 
-### Level 30+: variants
+## Level 30+: variants
 
 Now, what about the Delta variants and such? Well, people may say that the vaccines 'aren't effective' but that's not the full story.
 

@@ -10,7 +10,7 @@ Now, you wanna join one of these platforms. However, for a non-technical person 
 
 I'll save you the details of how the Fediverse works and let you dive headfirst into making an account, step by step.
 
-### Note
+## Note
 
 No matter what you choose for each step, the architecture of the Fediverse allows users of all platforms, software and instances to be able to interact with each other. 
 
@@ -18,14 +18,14 @@ Think of an Instagram user being able to directly comment on a YouTube video wit
 
 It's a little bit more complicated than that, and a few things might differ, but it's still cool!
 
-### TL;DR
+## TL;DR
 
 1. Find out what kind of social media **platform** you want to get into
 2. Choose which Fediverse **software** you like best that implements the features you need
 3. Look for the **instance** that runs on that software that passes the vibe checks
 4. **Sign up** to that instance
 
-### Step 1: type of platform
+## Step 1: type of platform
 
 Away from the Fediverse, there are tons of kinds of social media platforms out there: Twitter, Instagram, Reddit, YouTube... I'm sure you're familiar with all of them.
 
@@ -35,7 +35,7 @@ If you're someone who likes Twitter, you might want to look at the **microbloggi
 
 For the rest of this article, we'll be looking at the microblogging platforms as they're the most relevant and probably the most varied.
 
-### Step 2: software
+## Step 2: software
 
 So you decided that you want a platform similar to Twitter.
 
@@ -51,7 +51,7 @@ When considering the software to use, consider these things:
 - Do you have any **people** you'd like to follow straight away? It might be more convenient to share the same software with them to get the full experience.
 - Is the software **maintained** by its developers? If not, it might start to not follow current web standards or might even have security issues (i.e. be vulnerable to hackers).
 
-### Step 3: instances
+## Step 3: instances
 
 Let's say you decided that Mastodon suits your needs and you're going with it.
 
@@ -73,7 +73,7 @@ Here are more things you have to consider:
 
 If you're new to the Fediverse, there are many websites out there for helping you choose your new home. Read each instance's information and give their local timelines a scroll.
 
-### Step 4: accounts
+## Step 4: accounts
 
 Finally, you decided that https://infosec.space (one of my old instances!) passed the vibe check and you'd like to make it your new home.
 
@@ -83,7 +83,7 @@ However, this guide won't be teaching you how to set up your new profile nor any
 
 I *will* be explaining some little things about Federation in a separate post. Oh wait, you don't know what Federating is yet...
 
-### Some final words
+## Some final words
 
 Getting into the Fediverse might feel daunting, but it's not so hard to make an account.
 

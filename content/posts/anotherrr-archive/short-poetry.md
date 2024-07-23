@@ -19,7 +19,7 @@ Oh, and you like songs based on lyrics. Especially Taylor Swift.
 
 If you're here, you probably love writing. You like making worlds out of your imagination. So I'm going to share something I learned in a windy December.
 
-### Auroras and sad prose
+## Auroras and sad prose
 
 A quick Google search of this *The Lakes* lyric told me what proses are:
 
@@ -47,7 +47,7 @@ Woah. That went deep. Other people thought the girl died. Others thought nothing
 
 But that changed my perspective. Let's move on to another topic - one of my favourites!
 
-### Haikuuusss!
+## Haikuuusss!
 
 A classic Japanese poem with no rhymes and consists of three lines. The first line has 5 syllables, the second 7, and the last 5 again. And it's the best type of poem in my opinion.
 
@@ -84,7 +84,7 @@ Here's one I wrote on the spot:
 
 I'm one of those people who love rain and the smell of rain... but not puddles and mud. But rain definitely takes about 10% of all my poetry.
 
-### Simple words
+## Simple words
 
 You don't need to know similies and metaphors and whatnot to make your poetry and writing beautiful. If you have a vivid mind's eye and you can translate it into effective words, you can write beautiful things.
 

@@ -22,7 +22,7 @@ So I'm one of those few people who barely use their phones and mostly use their 
 
 Like legit.
 
-### The many workarounds
+## The many workarounds
 
 So first of all, I usually use my computer. Then I want to post something on Instagram for something, then end up having to go to BlueStacks just to post something on Instagram. Suddenly my computer crashes because of BlueStacks.
 
@@ -34,7 +34,7 @@ Or you use the [Inspect element workaround](../insta-web) without installing any
 
 Total bummer.
 
-### The problem with workarounds
+## The problem with workarounds
 
 My favourite workaround is the [Inspect element workaround](../insta-web). You don't need to install anything, and you only need _three clicks_ to start posting.
 
@@ -46,7 +46,7 @@ You can post, but you can't post carousels. You can add to your story, but you'l
 
 What a disappointment.
 
-### Twitter comparison
+## Twitter comparison
 
 Switch to Twitter and everything's legit so easy. You could just copy/paste images from the internet and go post it right from your browser - no installs needed!
 
