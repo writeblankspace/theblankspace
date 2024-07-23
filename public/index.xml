@@ -9,11 +9,32 @@
     <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://myblankspace.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Diving headfirst into the Fediverse</title>
+      <link>https://myblankspace.netlify.app/posts/fedi-files/diving-headfirst-into-the-fediverse/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://myblankspace.netlify.app/posts/fedi-files/diving-headfirst-into-the-fediverse/</guid>
+      <description>You may have heard of the emerging social media platform Mastodon. If you happen to pay even more attention, you may have also heard of those called Misskey, Pixelfed, Peertube, and such.</description>
+    </item>
+    <item>
+      <title>How your instance admins can vibe-check other instances in the Fediverse</title>
+      <link>https://myblankspace.netlify.app/posts/fedi-files/how-your-instance-admins-can-vibe-check-other-instances-in-the-fediverse/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://myblankspace.netlify.app/posts/fedi-files/how-your-instance-admins-can-vibe-check-other-instances-in-the-fediverse/</guid>
+      <description>You might already know how to vibe-check users and instances as a Fediverse user. But there are tons of bad instances out there. A wee little user can&amp;rsquo;t mute/block/report &amp;rsquo;em all!</description>
+    </item>
+    <item>
       <title>Old index page</title>
       <link>https://myblankspace.netlify.app/posts/anotherrr-archive/old-index/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://myblankspace.netlify.app/posts/anotherrr-archive/old-index/</guid>
       <description>Hello and welcome to my archive! This is where I add some random reads and other things that I just wanna add. I add new stuff here every so often, about pretty much any topic I like.</description>
+    </item>
+    <item>
+      <title>Vibe-checking in the Fediverse as a user</title>
+      <link>https://myblankspace.netlify.app/posts/fedi-files/vibe-checking-in-the-fediverse-as-a-user/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://myblankspace.netlify.app/posts/fedi-files/vibe-checking-in-the-fediverse-as-a-user/</guid>
+      <description>Woohoo! You&amp;rsquo;re in your Fediverse instance, and&amp;hellip;&#xA;OH NO! You just saw something that makes you want to bleach your eyes, and rip them eyeballs out of their sockets, and bleach them again!</description>
     </item>
     <item>
       <title>An Update</title>
