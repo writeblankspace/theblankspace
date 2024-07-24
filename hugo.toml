@@ -4,6 +4,11 @@ title = 'WriteBlankSpace'
 theme = 'mytheme'
 summaryLength = 30
 
+[params]
+	username = "writeblankspace"
+	displayName = "mercurial yapper"
+	socialURL = "https://shonk.social/@writeblankspace"
+
 [menus]
 	[[menus.main]]
 		name = "Home"
