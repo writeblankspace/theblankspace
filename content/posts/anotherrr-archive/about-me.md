@@ -43,7 +43,7 @@ As for those who *do* know about development, you'll find that I seem to use Pyt
 
 I prefer Python, where all you gotta do is use a colon and an indent. It looks nice too.
 
-Speaking of which, you might want to look at this article: [Why Python is better than JavaScript](/a/1628726400-why-learn-py).
+Speaking of which, you might want to look at this article: [Why Python is better than JavaScript](../why-learn-py).
 
 ## Music and literature
 

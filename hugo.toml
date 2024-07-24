@@ -3,3 +3,13 @@ languageCode = 'en-us'
 title = 'WriteBlankSpace'
 theme = 'mytheme'
 summaryLength = 30
+
+[menus]
+	[[menus.main]]
+		name = "Home"
+		pageRef = "/"
+		weight = 10
+	[[menus.main]]
+		name = "Posts"
+		pageRef = "/posts/"
+		weight = 20
