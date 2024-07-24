@@ -64,3 +64,12 @@ pre:has(> code) {
 .prev + .prev {
 	margin-top: 1em;
 }
+
+@media screen and (max-width: 310px) {
+	body {
+		padding: 0 1px;
+	}
+	.prev, .post {
+		padding: 0 5px 0.8em;
+	}
+}
