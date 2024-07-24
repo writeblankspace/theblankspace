@@ -22,7 +22,7 @@ header {
 	margin-bottom: 2em;
 }
 
-span + span {
+header span + span {
 	margin-left: 10px;
 }
 
@@ -32,7 +32,7 @@ span + span {
 }
 
 .title a {
-	text-decoration: none !important;
+	text-decoration: none;
 }
 
 img {
