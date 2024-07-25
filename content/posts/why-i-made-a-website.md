@@ -8,7 +8,7 @@ Short answer: why not?
 
 The longer answer is me waxing poetic.
 
-I've made a website long long ago, back in 2021. (In fact, you can still see what remains of it; see my post on the [Anotherrr Archive](../anotherrr-archive/). HTML and CSS may not be scripting languages, but the process of making websites really reminds me of the kind of headspace I'm in while programming, minus all the cooler debugging tools.
+I've made a website long long ago, back in 2021. (In fact, you can still see what remains of it [here](../anotherrr-archive/).) HTML and CSS may not be scripting languages, but the process of making websites really reminds me of the kind of headspace I'm in while programming, minus all the cooler debugging tools.
 
 Anyways, you can see that I discovered a love for making websites. All of last year, before I took my iGCSEs, I remembered my love of making them. However, iGCSEs existed. On the other hand, I got way too bored on day was able to set it up on January of 2024... but iGCSEs still existed.
 

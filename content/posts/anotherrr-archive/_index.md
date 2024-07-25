@@ -14,4 +14,4 @@ For some reason, all my posts disappeared from the actual website now. You'll st
 
 However, going through the Internet Archive isn't the most reliable nor the fastest. So I decided to put all these old posts right here, in their new home. It doesn't have all the old fancy CSS, but the content is copy-pasted straight from 2021. Enjoy!
 
-**NOTE: these posts may contain several images and syntax-highlighted code snippets, so it's definitely a little heavier than my usual posts here.**
+**NOTE: these posts may contain several images and syntax-highlighted code snippets, so they're definitely a little heavier than my usual posts here.**
