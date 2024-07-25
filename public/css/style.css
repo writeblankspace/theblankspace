@@ -1,5 +1,6 @@
 html {
 	font-family: sans-serif;
+	overflow-wrap: break-word;
   	height: 100%;
   	width: 100%;
 	--fakeblack: #3d3d3d;
