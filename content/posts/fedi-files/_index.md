@@ -1,5 +1,5 @@
 +++
-title = 'Fediverse Stuff'
+title = 'Fediverse stuff'
 date = 2024-07-23
 draft = false
 +++

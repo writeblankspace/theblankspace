@@ -1,5 +1,5 @@
 +++
-title = 'Anotherrr Archive'
+title = 'Anotherrr archive'
 date = 2024-07-23T13:31:48+03:00
 draft = false
 +++
