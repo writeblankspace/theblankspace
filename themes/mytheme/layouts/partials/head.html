@@ -1,6 +1,16 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+<title>
+	{{ if .IsHome }}
+		{{ site.Title }}
+	{{ else }}
+		{{ if eq .Kind "term" }}
+			{{ printf "#%s | %s" (lower .Title) site.Title }}
+		{{ else }}
+			{{ printf "%s | %s" .Title site.Title }}
+		{{ end }}
+	{{ end }}
+</title>
 <!-- {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }} -->
 <link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />

@@ -1,0 +1,16 @@
+{{ define "main" }}
+	<h1>{{ .Title }}</h1>
+	{{ .Content }}
+	<section>
+		<ul>
+			{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+				{{ $count := .Count }}
+				{{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+					<li>
+						<a href="{{ .RelPermalink }}">#{{ $name }}</a> ({{ $count }})
+					</li>
+				{{ end }}
+			{{ end }}
+		</ul>
+	</section>
+{{ end }}

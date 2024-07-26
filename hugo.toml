@@ -1,6 +1,6 @@
 baseURL = 'https://myblankspace.netlify.app/'
 languageCode = 'en-us'
-title = 'write​_'
+title = 'Write​_'
 theme = 'mytheme'
 summaryLength = 20
 
