@@ -1,6 +1,7 @@
 +++
 title = 'Vibe-checking in the Fediverse as a user'
 date = 2024-07-23
+tags = ['fediverse']
 draft = false
 +++
 

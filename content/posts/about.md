@@ -1,6 +1,7 @@
 +++
 title = 'About'
 date = 2024-01-28T15:31:15+03:00
+tags = ['meta']
 draft = false
 +++
 

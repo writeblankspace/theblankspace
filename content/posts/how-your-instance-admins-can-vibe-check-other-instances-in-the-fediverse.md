@@ -1,6 +1,7 @@
 +++
 title = 'How your instance admins can vibe-check other instances in the Fediverse'
 date = 2024-07-23
+tags = ['fediverse']
 draft = false
 +++
 
