@@ -66,6 +66,14 @@ article + article {
 	margin-top: 1em;
 }
 
+.pagination {
+	text-align: center;
+}
+
+.pagination span + span {
+	margin-left: 5px;
+}
+
 @media screen and (max-width: 310px) {
 	body {
 		padding: 0 1px;

@@ -19,5 +19,8 @@ summaryLength = 20
 		pageRef = "/posts/"
 		weight = 20
 
+[pagination]
+	pagerSize = 5
+
 [markup.goldmark.renderer]
 	unsafe = true

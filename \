@@ -1,0 +1,42 @@
+{{ $pages := where site.RegularPages "Type" "posts" }}
+{{ $paginator := .Paginate $pages.ByDate.Reverse 10 }}
+
+{{ template "_internal/pagination.html" }}
+
+{{ with $paginator }}
+	<div class="pagination">
+		<p>
+			{{ with .First }}
+				<span>
+					<a href="{{ .URL }}">First</a>
+				</span>
+			{{ end }}
+			{{ with .Prev }}
+				<span>
+					<a href="{{ .URL }}">←</a>
+				</span>
+			{{ end }}
+			{{ range .Pagers }}
+				<span>
+					{{ if eq .PageNumber $paginator.PageNumber }}
+						<u>{{ .PageNumber }}</u>
+					{{ else }}
+						<a href="{{ .URL }}">{{ .PageNumber }}</a>
+					{{ end }}
+				</span>
+			{{ end }}
+			{{ with .Next }}
+				<span>
+					<a href="{{ .URL }}">→</a>
+				</span>
+			{{ end }}
+			{{ with .Last }}
+				<span>
+					<a href="{{ .URL }}">Last</a>
+				</span>
+			{{ end }}
+		</p>
+	</div>
+{{ end }}
+			
+

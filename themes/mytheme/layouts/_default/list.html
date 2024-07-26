@@ -2,8 +2,52 @@
 	<h1>{{ .Title }}</h1>
 	{{ .Content }}
 	<section>
-		{{ range .Pages }}
+		{{ $paginator := .Paginate .RegularPages.ByDate.Reverse }}
+
+		{{ range $paginator.Pages }}
 			{{ partial "preview" . }}
 		{{ end }}
 	</section>
+
+	{{ template "_internal/pagination.html" }}
+
+	{{ with $paginator }}
+		<div class="pagination">
+			<p>
+				{{ with .First }}
+					<span>
+						<a href="{{ .URL }}">First</a>
+					</span>
+				{{ end }}
+				{{ range .Pagers }}
+					<span>
+						{{ if eq .PageNumber $paginator.PageNumber }}
+							<u>{{ .PageNumber }}</u>
+						{{ else }}
+							<a href="{{ .URL }}">{{ .PageNumber }}</a>
+						{{ end }}
+					</span>
+				{{ end }}
+				{{ with .Last }}
+					<span>
+						<a href="{{ .URL }}">Last</a>
+					</span>
+				{{ end }}
+			</p>
+			<p>
+				{{ with .Prev }}
+					<span>
+						<a href="{{ .URL }}">← Prev</a>
+					</span>
+				{{ end }}
+				{{ with .Next }}
+					<span>
+						<a href="{{ .URL }}">Next →</a>
+					</span>
+				{{ end }}
+			</p>
+			
+		</div>
+	{{ end }}
+				
 {{ end }}

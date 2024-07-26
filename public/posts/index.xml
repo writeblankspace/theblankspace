@@ -6,8 +6,15 @@
     <description>Recent content in Posts on write​_</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2024 13:03:31 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 19:14:04 +0300</lastBuildDate>
     <atom:link href="https://myblankspace.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anotherrr Archive</title>
+      <link>https://myblankspace.netlify.app/posts/anotherrr-archive/</link>
+      <pubDate>Fri, 26 Jul 2024 19:14:04 +0300</pubDate>
+      <guid>https://myblankspace.netlify.app/posts/anotherrr-archive/</guid>
+      <description>Back in 2021, I used to have this website called anotherrr.web.app, made with a Static Site Generator I made myself. Due to the horrible codebase, it has since become adandoned.</description>
+    </item>
     <item>
       <title>Why I made a website</title>
       <link>https://myblankspace.netlify.app/posts/why-i-made-a-website/</link>
