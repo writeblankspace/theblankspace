@@ -13,7 +13,7 @@ body {
 	padding: 0 16px;
 }
 
-.main {
+body > div {
 	min-width: 50vw;
 	width: 80ch;
 	max-width: 80ch;
@@ -57,12 +57,12 @@ pre:has(> code) {
 	color: var(--fakeblack);
 }
 
-.prev, .post {
+article {
 	padding: 0 1em;
 	border: solid 1px var(--fakeblack);
 }
 
-.prev + .prev {
+article + article {
 	margin-top: 1em;
 }
 

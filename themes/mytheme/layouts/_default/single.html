@@ -1,8 +1,9 @@
 {{ define "main" }}
 {{ partial "metadata" . }}
 
-<div class="post">
+<article>
 	<h1>{{ .Title }}</h1>
 	{{ .Content }}
-</div>
+</article>
+
 {{ end }}

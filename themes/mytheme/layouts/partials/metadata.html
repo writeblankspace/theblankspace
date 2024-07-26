@@ -1,1 +1,6 @@
-<p class="greyed"><time>{{ .PublishDate.Format "02 Jan 2006" }}</time> · {{ .ReadingTime }} {{ if eq .ReadingTime 1 }} minute {{ else }} minutes {{ end }} read</p>
+<p class="greyed">
+<time datetime="{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" }}">
+		{{ .PublishDate.Format "02 Jan 2006" }}
+	</time> 
+	· {{ .ReadingTime }} {{ if eq .ReadingTime 1 }} minute {{ else }} minutes {{ end }} read
+</p>
