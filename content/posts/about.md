@@ -1,7 +1,7 @@
 +++
 title = 'About'
 date = 2024-01-28T15:31:15+03:00
-tags = ['meta']
+tags = ['meta', 'dev']
 draft = false
 +++
 
@@ -28,8 +28,8 @@ This website is a lovely place where my brain cells go to rest. It was made with
 The main things I want to achieve with this website:
 
 1. **Function**. It has to show all my posts. That's done.
-2. **No bloat**. I am someone who prefers aesthetics over certain things, but why not be aesthetic *and* effective? I tried my best to make sure the CSS does the bare minimum to make a nice website without going into animations and custom stuff and whatnot. The fonts I use here are your locally-stored fonts (check your browser's font settings). Also, I don't wish to add any JavaScript on here. Probably never will. At least I don't have to pretend I know how that works.
-3. **Looks *me***. I like this thing to reflect *me*. I like the colour scheme. I like the minimal timeline that doesn't need super fancy marquees or whatever. I like being able to do all of the above.
+2. **No bloat**. I am someone who prefers aesthetics over certain things, but why not be aesthetic *and* effective? I tried my best to make sure the CSS stays simple and not too ambitious. The fonts I use here are your locally-stored fonts (check your browser's font settings). Also, I don't wish to add any JavaScript on here. Probably never will. At least I don't have to pretend I know how that works.
+3. **Looks *me***. I like this thing to reflect *me*. I like the minimal post list that doesn't need super fancy marquees or whatever. I like being able to do all of the above.
 
 Wanna see the source code of the website? Head to its [GitHub page](https://github.com/writeblankspace/theblankspace). If there are any issues, go ahead and make some. Take heed: I may not see it for the next 6 months. Or ever. Y'know, so you're aware. If you wanna look at the code, even use it, go ahead. I hope you like spaghetti — the sweet kind, mind, 'cause I'm Filipino.
 

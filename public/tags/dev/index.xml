@@ -6,8 +6,29 @@
     <description>Recent content in Dev on Write​_</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 19:14:04 +0300</lastBuildDate>
     <atom:link href="https://myblankspace.netlify.app/tags/dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anotherrr archive</title>
+      <link>https://myblankspace.netlify.app/posts/anotherrr-archive/</link>
+      <pubDate>Fri, 26 Jul 2024 19:14:04 +0300</pubDate>
+      <guid>https://myblankspace.netlify.app/posts/anotherrr-archive/</guid>
+      <description>Back in 2021, I used to have this website called anotherrr.web.app, made with a Static Site Generator I made myself. Due to the horrible codebase, it has since become adandoned. But I&amp;rsquo;m still quite fond of the content I wrote for it and wish to give those old posts a new home in this site.</description>
+    </item>
+    <item>
+      <title>Why I made a website</title>
+      <link>https://myblankspace.netlify.app/posts/why-i-made-a-website/</link>
+      <pubDate>Thu, 25 Jul 2024 13:03:31 +0300</pubDate>
+      <guid>https://myblankspace.netlify.app/posts/why-i-made-a-website/</guid>
+      <description>Short answer: why not?&#xA;The longer answer is me waxing poetic.&#xA;I&amp;rsquo;ve made a website long long ago, back in 2021. (In fact, you can still see what remains of it here.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://myblankspace.netlify.app/posts/about/</link>
+      <pubDate>Sun, 28 Jan 2024 15:31:15 +0300</pubDate>
+      <guid>https://myblankspace.netlify.app/posts/about/</guid>
+      <description>I dunno who&amp;rsquo;d be interested enough to view this page — or heck, even this website — but if you truly are curious then feel free to scroll through all this meta stuff.</description>
+    </item>
     <item>
       <title>This post will trigger you</title>
       <link>https://myblankspace.netlify.app/anotherrr-archive/trigger/</link>

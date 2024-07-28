@@ -1,17 +1,5 @@
 {{ define "main" }}
 	<h1>{{ .Title }}</h1>
 	{{ .Content }}
-	<section>
-		<ul>
-			{{ range $name, $taxonomy := .Data.Terms.ByCount.Reverse }}
-				{{ $count := .Count }}
-				{{ with $.Site.GetPage (printf "/tags/%s" $name) }}
-					<li>
-						<a href="{{ .RelPermalink }}">#{{ $name }}</a> ({{ $count }})
-					</li>
-				{{ end }}
-			{{ end }}
-		</ul>
-	</section>
 	{{ partial "list" . }}
 {{ end }}

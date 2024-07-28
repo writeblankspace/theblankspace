@@ -1,7 +1,7 @@
 +++
 title = 'Why I made a website'
 date = 2024-07-25T13:03:31+03:00
-tags = ['meta', 'waxing_poetic']
+tags = ['meta', 'waxing_poetic', 'dev']
 draft = false 
 +++
 

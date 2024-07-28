@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 26 Jul 2024 19:14:04 +0300</lastBuildDate>
     <atom:link href="https://myblankspace.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Dev</title>
+      <link>https://myblankspace.netlify.app/tags/dev/</link>
+      <pubDate>Fri, 26 Jul 2024 19:14:04 +0300</pubDate>
+      <guid>https://myblankspace.netlify.app/tags/dev/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Meta</title>
       <link>https://myblankspace.netlify.app/tags/meta/</link>
       <pubDate>Fri, 26 Jul 2024 19:14:04 +0300</pubDate>
@@ -62,13 +69,6 @@
       <link>https://myblankspace.netlify.app/tags/music/</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://myblankspace.netlify.app/tags/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dev</title>
-      <link>https://myblankspace.netlify.app/tags/dev/</link>
-      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://myblankspace.netlify.app/tags/dev/</guid>
       <description></description>
     </item>
     <item>

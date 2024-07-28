@@ -1,7 +1,7 @@
 +++
 title = 'Anotherrr archive'
 date = 2024-07-26T19:14:04+03:00
-tags = ['meta']
+tags = ['meta', 'dev']
 draft = false
 +++
 
