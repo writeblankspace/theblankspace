@@ -19,7 +19,6 @@ body > div {
 }
 
 header {
-	text-align: center;
 	margin-bottom: 2em;
 }
 
@@ -65,7 +64,7 @@ article + article {
 	margin-top: 1em;
 }
 
-.pagination {
+header, .pagination, footer {
 	text-align: center;
 }
 

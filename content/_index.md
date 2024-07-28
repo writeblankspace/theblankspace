@@ -14,4 +14,3 @@ This site is written and by me and generated into a static site with [Hugo](http
 
 And... don't say I didn't warn ya.
 
----
