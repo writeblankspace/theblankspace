@@ -3,13 +3,12 @@
 	{{ .Content }}
 	<section>
 		<ul>
-			{{ $taxonomyObject := .Data.Terms }}
-			{{ range $term, $taxonomy := $taxonomyObject }}
-				{{ $count := .Count }}
+			{{ range .Data.Terms.ByCount }}
 				<li>
-					<a href="{{ .Page.RelPermalink }}">#{{ $term }}</a> ({{ $count }})
+					<a href="{{ .Page.RelPermalink }}">#{{ lower .Page.LinkTitle }}</a> ({{ .Count }})
 				</li>
 			{{ end }}
 		</ul>
 	</section>
+	<hr />
 {{ end }}
