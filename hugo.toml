@@ -2,7 +2,7 @@ baseURL = 'https://myblankspace.netlify.app/'
 languageCode = 'en-us'
 title = 'Write​_'
 theme = 'mytheme'
-summaryLength = 20
+summaryLength = 30
 
 [params]
 	username = "writeblankspace"
