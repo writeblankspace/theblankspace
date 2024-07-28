@@ -9,32 +9,35 @@ I dunno who'd be interested enough to view this page — or heck, even this webs
 
 Read on if you'd like to learn more about...
 
-### ...yours truly, a.k.a. me
+### ...yours truly (me)
 
-Heyy I usually go about the username writeblankspace (seemed a really cool username, like "write" and then a blank space where I could write stuff — also Blank Space teehee) but you might find that I tend to change my display name. I like being anonymous 'cause why not? It feels nicer.
+I usually go about the username writeblankspace (seemed a really cool username, like "write" and then a blank space where I could write stuff — also Blank Space because yeah) but you might find that I tend to change my display name. I like staying anonymous online.
 
-I'm interested in a ton of things. I like music, programming, and the visual arts. I often end up in rabbit holes about mythology, linguistics or personality stuff (like personality taxonomies, such as 16personalities, cognitive functions and SortingHatChats). You can say I'm a Jack of all trades, master of none - but better than master of one (hopefully!). Oh... and Taylor Swift. A lot of Taylor Swift. And some other artists too...
+I'm interested in a ton of things. I like music and tech. I often end up in rabbit holes about mythology, linguistics or such. 
 
-Anyways, stuff tends to be unhinged around here. Unhinged or I would give you so much info your brain will just shut down. Like I like to say: don't say I didn't warn ya.
+My current obsession changes a lot, but I find myself falling back to the same hobbies every so often.
 
-When I'm not unhinged nor infodumping nor ranting or whatever, I'm just bored. A bored 2007 girlie. Can you blame me?
+As said by a wise woman once, "Embrace the cringe". I'd like to think that I'm *embracing the cringe*. That might lead to a lot of unhingedness, but in a world that craves perfection (and, in that quest to perfection, misses the entire point), who needs hinges? Be what you are.
 
-I speak English (mainly) and Tagalog (natively) but you might see me trying out some French because iGCSEs.
+My main language is English, but my native tongue is Tagalog. Most (if not all) of the posts on this site are most likely going to be in English.
 
 ### ...the website
 
-This website is a lovely place where my brain cells go to rest. It was made with GoHugo and the produced website is static.
+This website is a lovely place where my brain cells go to rest. It was made with [Hugo](https://gohugo.io), an amazing static site generator.
+
+The contents and the design of this website are written entirely by me.
 
 The main things I want to achieve with this website:
 
-1. **Function**. It has to show all my posts. That's done.
-2. **No bloat**. I am someone who prefers aesthetics over certain things, but why not be aesthetic *and* effective? I tried my best to make sure the CSS stays simple and not too ambitious. The fonts I use here are your locally-stored fonts (check your browser's font settings). Also, I don't wish to add any JavaScript on here. Probably never will. At least I don't have to pretend I know how that works.
-3. **Looks *me***. I like this thing to reflect *me*. I like the minimal post list that doesn't need super fancy marquees or whatever. I like being able to do all of the above.
+- **Functionality**: This website is functional and shows all its posts. Yay.
+- **No bloat**: I was quite inspired by the [mfing website](https://motherfuckingwebsite.com/). Websites are responsive and actually quite beautiful by default. Why change that? While I'm not ditching CSS altogether, I aim to stick to the defaults as much as possible and add my own design elements where it improves the look and feel.
+- **Accessibility**: There are little things anybody could do to make a website more accessible, whether it's to those with visual impairments, slow internet connection, or whatever.
+- **Personalisation**: I [once waxed poetic](../why-i-made-a-website) on how your personal website was a manifestation of yourself, made with your heart and soul. That rings true for me on here. All elements of this websie feel like *me*.
 
-Wanna see the source code of the website? Head to its [GitHub page](https://github.com/writeblankspace/theblankspace). If there are any issues, go ahead and make some. Take heed: I may not see it for the next 6 months. Or ever. Y'know, so you're aware. If you wanna look at the code, even use it, go ahead. I hope you like spaghetti — the sweet kind, mind, 'cause I'm Filipino.
+The source code of this website is available on its [GitHub page](https://github.com/writeblankspace/theblankspace). If there are any issues, go ahead and make some. Take heed: I may not see it for the next 6 months. Or ever. Y'know, just so you're aware. 
 
 ### ...whatever else
 
-I dunno I think you got the gist of it. And really if you wanna know more about me or this website, I suggest you just go around and see stuff for yourself. I change all the time — I like to say I'm like the weather, and I've heard that a nice adjective for myself is 'mercurial' (I'll leave you to Google that, but I like it because it's a word used in *illicit affairs* by none other than T. A. Swift). This website will reflect that, maybe. Or it will be lost in time in the depths of my filesystem or my GitHub repos or later become data lost in the years since technology... uh, I mean it will just be lost in time. No need to dystopian stuff rn.
+That's essentially all I can tell you about myself and this website without going off on a tangent. If you would like to go down those tangents, view my [posts](/posts/)!
 
-Baiiii. Or not. Keep scrolling, if you wish. Or not.
+**EDIT 28 Jul 2024: so I edited this page a little bit to reflect my current self. Forgive me if the language seems kind of 'off' because right now you're seeing two different phases of me on a single page. I did say *embrace the cringe* but some parts were just so cringy I had to lop them off. They're immortalised in the older git versions though!**
