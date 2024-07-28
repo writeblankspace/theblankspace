@@ -1,3 +1,5 @@
+/* whole document */
+
 html {
 	font-family: sans-serif;
 	overflow-wrap: break-word;
@@ -18,12 +20,10 @@ body > div {
 	max-width: 75ch;
 }
 
+/* header */
+
 header {
 	margin-bottom: 2em;
-}
-
-span + span {
-	margin-left: 5px;
 }
 
 .title {
@@ -34,6 +34,12 @@ span + span {
 
 .title a {
 	text-decoration: none;
+}
+
+/* general */
+
+span + span {
+	margin-left: 5px;
 }
 
 img {
@@ -51,6 +57,8 @@ pre span + span {
 	margin-left: 0;
 }
 
+/* special */
+
 .greyed {
 	font-weight: 300;
 }
@@ -67,6 +75,8 @@ article + article {
 header, .pagination, footer {
 	text-align: center;
 }
+
+/* small screens */
 
 @media screen and (max-width: 310px) {
 	body {
