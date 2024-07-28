@@ -3,13 +3,12 @@
 	{{ .Content }}
 	<section>
 		<ul>
-			{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+			{{ $taxonomyObject := .Data.Terms }}
+			{{ range $term, $taxonomy := $taxonomyObject }}
 				{{ $count := .Count }}
-				{{ with $.Site.GetPage (printf "/tags/%s" $name) }}
-					<li>
-						<a href="{{ .RelPermalink }}">#{{ $name }}</a> ({{ $count }})
-					</li>
-				{{ end }}
+				<li>
+					<a href="{{ .Page.RelPermalink }}">#{{ $term }}</a> ({{ $count }})
+				</li>
 			{{ end }}
 		</ul>
 	</section>
