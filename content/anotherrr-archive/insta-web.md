@@ -1,6 +1,7 @@
 +++
 title = 'How to post on Instagram using PC'
 date = 2021-08-12
+tags = ['social_media', 'tutorial']
 draft = false
 +++
 

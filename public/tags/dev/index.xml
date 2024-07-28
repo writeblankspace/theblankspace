@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev on Write​_</title>
+    <link>https://myblankspace.netlify.app/tags/dev/</link>
+    <description>Recent content in Dev on Write​_</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://myblankspace.netlify.app/tags/dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This post will trigger you</title>
+      <link>https://myblankspace.netlify.app/anotherrr-archive/trigger/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://myblankspace.netlify.app/anotherrr-archive/trigger/</guid>
+      <description>What? Why did you click on that link?&#xA;🤔 I honestly don&amp;rsquo;t know what you think you&amp;rsquo;ll find in here, but it&amp;rsquo;s definitely not what you&amp;rsquo;re looking for. I don&amp;rsquo;t even know why you&amp;rsquo;re bothering to scroll down and read this content, why you&amp;rsquo;re still here reading this very sentence.</description>
+    </item>
+    <item>
+      <title>Why Python is better than JavaScript</title>
+      <link>https://myblankspace.netlify.app/anotherrr-archive/why-learn-py/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://myblankspace.netlify.app/anotherrr-archive/why-learn-py/</guid>
+      <description>Something a lot of beginners ask. When you begin exposure to the world of programming languages, you&amp;rsquo;ll probably hear JavaScript a lot. Until you hear about another language: Python.</description>
+    </item>
+    <item>
+      <title>About this website</title>
+      <link>https://myblankspace.netlify.app/anotherrr-archive/about-this-website/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://myblankspace.netlify.app/anotherrr-archive/about-this-website/</guid>
+      <description>Yeah, well, most 14 year olds don&amp;rsquo;t make their own personal websites (that aren&amp;rsquo;t for school of course)&amp;hellip; but I do (I do&amp;hellip;), and it&amp;rsquo;s for random purposes.&#xA;It&amp;rsquo;s a long story, really.</description>
+    </item>
+  </channel>
+</rss>

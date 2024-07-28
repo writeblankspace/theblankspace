@@ -1,6 +1,7 @@
 +++
 title = 'Short poetry'
 date = 2021-08-14
+tags = ['literature']
 draft = false
 +++
 

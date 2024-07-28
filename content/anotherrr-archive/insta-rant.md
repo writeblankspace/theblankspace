@@ -1,6 +1,7 @@
 +++
 title = 'Instagram ranting'
 date = 2021-08-12
+tags = ['social_media', 'rant']
 draft = false
 +++
 

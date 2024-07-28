@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anotherrr_meta on Write​_</title>
+    <link>https://myblankspace.netlify.app/tags/anotherrr_meta/</link>
+    <description>Recent content in Anotherrr_meta on Write​_</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://myblankspace.netlify.app/tags/anotherrr_meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Old index page</title>
+      <link>https://myblankspace.netlify.app/anotherrr-archive/old-index/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://myblankspace.netlify.app/anotherrr-archive/old-index/</guid>
+      <description>Hello and welcome to my archive! This is where I add some random reads and other things that I just wanna add. I add new stuff here every so often, about pretty much any topic I like.</description>
+    </item>
+    <item>
+      <title>About ME!</title>
+      <link>https://myblankspace.netlify.app/anotherrr-archive/about-me/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://myblankspace.netlify.app/anotherrr-archive/about-me/</guid>
+      <description>That image is from Unsplash. It&amp;rsquo;s not mine and I don&amp;rsquo;t drink coffee. I don&amp;rsquo;t use earphones (I prefer listening straight from the speakers) but I do like music. My keyboard is black and I prefer dotted grid notebooks to lined paper.</description>
+    </item>
+    <item>
+      <title>About this website</title>
+      <link>https://myblankspace.netlify.app/anotherrr-archive/about-this-website/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://myblankspace.netlify.app/anotherrr-archive/about-this-website/</guid>
+      <description>Yeah, well, most 14 year olds don&amp;rsquo;t make their own personal websites (that aren&amp;rsquo;t for school of course)&amp;hellip; but I do (I do&amp;hellip;), and it&amp;rsquo;s for random purposes.&#xA;It&amp;rsquo;s a long story, really.</description>
+    </item>
+  </channel>
+</rss>

@@ -11,7 +11,7 @@
     <loc>https://myblankspace.netlify.app/tags/</loc>
     <lastmod>2024-07-26T19:14:04+03:00</lastmod>
   </url><url>
-    <loc>https://myblankspace.netlify.app/tags/waxing-poetic/</loc>
+    <loc>https://myblankspace.netlify.app/tags/waxing_poetic/</loc>
     <lastmod>2024-07-25T13:03:31+03:00</lastmod>
   </url><url>
     <loc>https://myblankspace.netlify.app/posts/why-i-made-a-website/</loc>
@@ -19,6 +19,9 @@
   </url><url>
     <loc>https://myblankspace.netlify.app/anotherrr-archive/</loc>
     <lastmod>2024-07-23T13:31:48+03:00</lastmod>
+  </url><url>
+    <loc>https://myblankspace.netlify.app/tags/anotherrr_meta/</loc>
+    <lastmod>2024-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://myblankspace.netlify.app/posts/diving-headfirst-into-the-fediverse/</loc>
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
@@ -50,11 +53,17 @@
     <loc>https://myblankspace.netlify.app/posts/my-first-post/</loc>
     <lastmod>2024-01-27T11:52:50+03:00</lastmod>
   </url><url>
+    <loc>https://myblankspace.netlify.app/tags/review/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://myblankspace.netlify.app/anotherrr-archive/note-taking-apps/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://myblankspace.netlify.app/anotherrr-archive/about-me/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myblankspace.netlify.app/tags/covid19/</loc>
+    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://myblankspace.netlify.app/anotherrr-archive/why-you-should-get-vaccinated/</loc>
     <lastmod>2021-08-16T00:00:00+00:00</lastmod>
@@ -62,11 +71,20 @@
     <loc>https://myblankspace.netlify.app/anotherrr-archive/covid-19-isnt-just-a-virus/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://myblankspace.netlify.app/tags/literature/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://myblankspace.netlify.app/anotherrr-archive/short-poetry/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://myblankspace.netlify.app/anotherrr-archive/learning-guitar/</loc>
     <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myblankspace.netlify.app/tags/music/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myblankspace.netlify.app/tags/dev/</loc>
+    <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://myblankspace.netlify.app/anotherrr-archive/insta-web/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
@@ -74,7 +92,19 @@
     <loc>https://myblankspace.netlify.app/anotherrr-archive/insta-rant/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://myblankspace.netlify.app/tags/random/</loc>
+    <lastmod>2021-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myblankspace.netlify.app/tags/rant/</loc>
+    <lastmod>2021-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myblankspace.netlify.app/tags/social_media/</loc>
+    <lastmod>2021-08-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://myblankspace.netlify.app/anotherrr-archive/trigger/</loc>
+    <lastmod>2021-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://myblankspace.netlify.app/tags/tutorial/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://myblankspace.netlify.app/anotherrr-archive/why-learn-py/</loc>

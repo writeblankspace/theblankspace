@@ -1,6 +1,7 @@
 +++
 title = 'The best FREE note taking apps 2021'
 date = 2021-10-11
+tags = ['review']
 draft = false
 +++
 

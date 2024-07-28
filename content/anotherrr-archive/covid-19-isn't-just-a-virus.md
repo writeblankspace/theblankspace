@@ -1,6 +1,7 @@
 +++
 title = "Why COVID-19 isn't just a virus"
 date = 2021-08-15
+tags = ['covid19']
 draft = false
 +++
 

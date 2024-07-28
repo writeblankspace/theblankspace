@@ -1,6 +1,7 @@
 +++
 title = 'Why you should get vaccinated'
 date = 2021-08-16
+tags = ['covid19']
 draft = false
 +++
 

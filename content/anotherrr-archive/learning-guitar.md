@@ -1,6 +1,7 @@
 +++
 title = 'How I learned guitar'
 date = 2021-08-13
+tags = ['music']
 draft = false
 +++
 
