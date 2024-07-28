@@ -10,13 +10,13 @@ body {
 	display: flex;
 	align-content: flex-start;
 	justify-content: center;
-	padding: 0 16px;
+	padding: 0 8px;
 }
 
 body > div {
 	min-width: 50vw;
-	width: 80ch;
-	max-width: 80ch;
+	width: 75ch;
+	max-width: 75ch;
 }
 
 header {
@@ -55,7 +55,7 @@ pre:has(> code) {
 }
 
 article {
-	padding: 0 1em;
+	padding: 0 16px;
 	border: solid 1px;
 }
 
