@@ -18,6 +18,10 @@ summaryLength = 30
 		name = 'Posts'
 		pageRef = '/posts/'
 		weight = 20
+	[[menus.main]]
+		name = 'Tags'
+		pageRef = '/tags/'
+		weight = 30
 
 [pagination]
 	pagerSize = 5
