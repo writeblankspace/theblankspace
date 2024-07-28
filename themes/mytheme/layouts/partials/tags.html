@@ -1,0 +1,11 @@
+<p class="greyed">
+	{{ with .GetTerms "tags" }}
+		{{ if . }}( {{ end }}
+		{{ range $index, $tag := . }}
+			{{- if $index }}, {{ end }}
+			<a href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
+		{{- end }}
+		{{ if . }} ){{ end }}
+	{{ end }}
+</p>
+

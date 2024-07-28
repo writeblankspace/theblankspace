@@ -52,7 +52,7 @@ pre span + span {
 	margin-left: 0;
 }
 
-.greyed * {
+.greyed {
 	font-weight: 300;
 }
 
