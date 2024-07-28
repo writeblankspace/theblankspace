@@ -43,10 +43,6 @@ img {
 	max-width: 100%;
 }
 
-hr {
-	margin: 2em 0;
-}
-
 pre:has(> code) {
 	padding: 1.5em;
 	max-width: 100%;
@@ -60,7 +56,7 @@ pre:has(> code) {
 
 article {
 	padding: 0 1em;
-	border: solid 1px var(--fakeblack);
+	border: solid 1px;
 }
 
 article + article {
