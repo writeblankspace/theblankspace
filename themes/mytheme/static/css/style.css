@@ -3,7 +3,6 @@ html {
 	overflow-wrap: break-word;
   	height: 100%;
   	width: 100%;
-	--fakeblack: #3d3d3d;
 }
 
 body {
@@ -24,7 +23,7 @@ header {
 	margin-bottom: 2em;
 }
 
-header span + span {
+span + span {
 	margin-left: 5px;
 }
 
@@ -49,9 +48,12 @@ pre:has(> code) {
 	overflow: auto;
 }
 
+pre span + span {
+	margin-left: 0;
+}
+
 .greyed * {
 	font-weight: 300;
-	color: var(--fakeblack);
 }
 
 article {
@@ -65,10 +67,6 @@ article + article {
 
 .pagination {
 	text-align: center;
-}
-
-.pagination span + span {
-	margin-left: 5px;
 }
 
 @media screen and (max-width: 310px) {
