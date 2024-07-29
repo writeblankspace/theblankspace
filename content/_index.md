@@ -30,13 +30,11 @@ My personal homepage probably isn't complete without a couple of [88x31 buttons]
 {{< 88x31 "best_viewed_with_eyes.gif" >}}
 {{< 88x31 "cssdif.gif" >}}
 {{< 88x31 img="fediring.gif" url="https://fediring.net" >}}
-{{< 88x31 "internetarchive.gif" >}}
-{{< 88x31 "firefox.gif" >}}
+{{< 88x31 img="internetarchive.gif" url="https://archive.org" >}}
+{{< 88x31 img="firefox.gif" url="https://www.mozilla.org/en-US/firefox/new/" >}}
 {{< 88x31 "gnu-linux.gif" >}}
-{{< 88x31 "duckduckgo.png" >}}
-{{< 88x31 "ublock.png" >}}
-{{< 88x31 "vim.gif" >}}
+{{< 88x31 img="duckduckgo.png" url="https://duckduckgo.com/" >}}
+{{< 88x31 img="ublock.png" url="https://ublockorigin.com/" >}}
+{{< 88x31 img="vim.gif" url="https://www.vim.org/" >}}
 
-<!--
-    <iframe src="https://john.citrons.xyz/embed?ref={{< params "baseURL" >}}" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
--->
+<iframe src="https://john.citrons.xyz/embed?ref={{< params "baseURL" >}}" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
