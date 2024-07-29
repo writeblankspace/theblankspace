@@ -63,7 +63,7 @@ pre span + span {
 	font-weight: 300;
 }
 
-article {
+article, .box {
 	padding: 0 16px;
 	border: solid 1px;
 }

@@ -1,0 +1,9 @@
+{{ $url := .Get "url" }}
+{{ $img := .Get "img" }}
+{{ if not $img }}
+	{{ $img = (.Get 0) }}
+{{ end }}
+
+{{- if $url }}<a href="{{ $url }}">{{- end }}
+	<img src="/static/88x31/{{ $img }}" alt=""> 
+{{- if $url }}</a>{{- end }}
