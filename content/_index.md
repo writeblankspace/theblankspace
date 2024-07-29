@@ -11,8 +11,8 @@ I'm ***{{< params "displayName" >}}***, tech enthusiast, music lover and full-ti
 You can contact me through these means (sorted in terms of preference):
 
 - **fediverse**: writeblankspace[at]shonk.social
-- **email**: writeblankspace[at]pm.me
 - **matrix**: writeblankspace[colon]waffle.tech
+- **email**: writeblankspace[at]pm.me
 
 You can read my [posts](posts/) or find out more [about this site](posts/about/).
 
