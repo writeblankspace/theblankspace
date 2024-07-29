@@ -16,7 +16,7 @@ You can contact me through these means (sorted in terms of preference):
 
 You can read my [posts](posts/) or find out more [about this site](posts/about/).
 
-This site is written and by me and generated into a static site with [Hugo](https://gohugo.io). I may occasionally abandon it and leave it with horrifyingly outdated (and most likely cringy) stuff. Please notify me if that's the case.
+This site is written and designed by me and generated into a static site with [Hugo](https://gohugo.io). I may occasionally abandon it and leave it with horrifyingly outdated (and most likely cringy) stuff. Please notify me if that's the case.
 
 And... don't say I didn't warn ya.
 
@@ -37,4 +37,10 @@ My personal homepage probably isn't complete without a couple of [88x31 buttons]
 {{< 88x31 img="ublock.png" url="https://ublockorigin.com/" >}}
 {{< 88x31 img="vim.gif" url="https://www.vim.org/" >}}
 
-<iframe src="https://john.citrons.xyz/embed?ref={{< params "baseURL" >}}" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
+<details>
+    <summary>johnvertisement</summary>
+    <iframe src="https://john.citrons.xyz/embed?ref={{< params "baseURL" >}}" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
+</details>
+
+
+To quote someone whose works I admire, *<q>Embrace the cringe</q>*.
