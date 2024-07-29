@@ -15,7 +15,7 @@ body {
 }
 
 body > div {
-	min-width: 50vw;
+	min-width: 30vw;
 	width: 70ch;
 	max-width: 70ch;
 }
