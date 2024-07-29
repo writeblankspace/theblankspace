@@ -16,8 +16,8 @@ body {
 
 body > div {
 	min-width: 50vw;
-	width: 75ch;
-	max-width: 75ch;
+	width: 70ch;
+	max-width: 70ch;
 }
 
 /* header */
