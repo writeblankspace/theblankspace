@@ -5,6 +5,7 @@ theme = 'mytheme'
 summaryLength = 30
 
 [params]
+	baseURL = 'myblankspace.netlify.app'
 	username = 'writeblankspace'
 	displayName = 'a mercurial mess of random thoughts'
 	socialURL = 'https://shonk.social/@writeblankspace'
