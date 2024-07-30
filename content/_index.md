@@ -43,4 +43,4 @@ My personal homepage probably isn't complete without a couple of [88x31 buttons]
 </details>
 
 
-To quote someone whose works I admire, *<q>Embrace the cringe</q>*.
+To paraphrase someone whose works I admire, *embrace the cringe*.
