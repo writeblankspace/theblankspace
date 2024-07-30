@@ -6,8 +6,15 @@
     <description>Recent content in Rant on Write​_</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 19:59:42 +0300</lastBuildDate>
     <atom:link href="https://myblankspace.netlify.app/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rant on html5 and h1 in articles</title>
+      <link>https://myblankspace.netlify.app/posts/rant-on-html5-and-h1-in-articles/</link>
+      <pubDate>Tue, 30 Jul 2024 19:59:42 +0300</pubDate>
+      <guid>https://myblankspace.netlify.app/posts/rant-on-html5-and-h1-in-articles/</guid>
+      <description>I was using Firefox&amp;rsquo;s reading mode on my site one day and thought some stuff looked off. Then I remembered: semantic elements. Maybe that&amp;rsquo;s why my site sometimes looks weird in reading mode!</description>
+    </item>
     <item>
       <title>Instagram ranting</title>
       <link>https://myblankspace.netlify.app/anotherrr-archive/insta-rant/</link>

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>
+	
+		
+			Rant on html5 and h1 in articles | Write​_
+		
+	
+</title>
+
+<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
+
+</head>
+<body>
+	<div>
+		<header>
+			<p class="title"><a href="/">Write​_</a></p>
+<nav>
+	<p>
+	<span>
+		<a href="/">Home</a>
+	</span>
+	<span>
+		<a href="/posts/">Posts</a>
+	</span>
+	<span>
+		<a href="/tags/">Tags</a>
+	</span>
+</p>
+</nav>
+
+		</header>
+		<main>
+			
+<p class="greyed">
+	<time datetime="2024-07-30T19:59:42&#43;03:00">
+		30 Jul 2024
+	</time> 
+	· 3  minutes  read	
+</p>
+
+
+<article>
+	<h1>Rant on html5 and h1 in articles</h1>
+	<p>I was using Firefox&rsquo;s reading mode on my site one day and thought some stuff looked off. Then I remembered: semantic elements. Maybe that&rsquo;s why my site sometimes looks weird in reading mode!</p>
+<p>One of the things I did was change some <code>&lt;div&gt;</code>s into <code>&lt;article&gt;</code>s. I suppose it helped. It made my html look so much better and nicer. That was maybe half a week ago.</p>
+<div class="box">
+	<details class="bordered">
+		<summary>
+			<b>Table of contents</b>
+		</summary>
+		<nav id="TableOfContents">
+  <ul>
+    <li><a href="#the-problem">The problem</a></li>
+    <li><a href="#some-research">Some research</a></li>
+    <li><a href="#why-i-hate-this">Why I hate this</a></li>
+    <li><a href="#what-i-did">What I did</a></li>
+    <li><a href="#just-a-rant">Just a rant</a></li>
+  </ul>
+</nav>
+	</details>
+</div>
+
+<h2 id="the-problem">The problem</h2>
+<p>Today, I edited my <a href="../about">about page</a> and condensed and freshened it up a bit. I also added table of contents to every page where relevant. Then I noticed something strange: my <code>&lt;h2&gt;</code>s were the <em>exact</em> same size as the title of the article, which was an <code>&lt;h1&gt;</code>.</p>
+<p>Perplexed, I went to DuckDuckGo and searched up my problem.</p>
+<h2 id="some-research">Some research</h2>
+<p>I found that someone had <a href="https://stackoverflow.com/questions/39547412/same-font-size-for-h1-and-h2-in-article">the same question</a> as me on StackOverflow, plus more insight. Turns out, the <code>&lt;h1&gt;</code> gets smaller when inside elements like <code>&lt;article&gt;</code>, <code>&lt;aside&gt;</code>, <code>&lt;nav&gt;</code> and <code>&lt;section&gt;</code>.</p>
+<p>Apparently, someone decided that the <code>&lt;h1&gt;</code> should get smaller in visual size as you went down nests of such elements. For each nest, you&rsquo;d have an <code>&lt;h1&gt;</code>. However, having tons of them, all the same size, would be hard to look through. So the <code>&lt;h1&gt;</code> would just get smaller.</p>
+<h2 id="why-i-hate-this">Why I hate this</h2>
+<p>I have no problem with my <code>&lt;h1&gt;</code>s getting smaller down each nest. But my question is: <em>why make it look like the <code>&lt;h2&gt;</code>?</em></p>
+<p>Someone told me that it was better practice to use an <code>&lt;h1&gt;</code> for an article title rather than the site title (i.e. don&rsquo;t use an <code>&lt;h1&gt;</code> for the title) because the article is considered more important than the site title. Using the same <code>&lt;h1&gt;</code> on <em>every</em> page diminishes the importance of the most important header.</p>
+<p>So I did that. My site title is some random <code>&lt;p&gt;</code> tag (as of the time of writing) and my article titles are <code>&lt;h1&gt;</code>s. <em>Except I have <code>&lt;h2&gt;</code>s in my articles too and it looks bad</em>.</p>
+<p>Why can&rsquo;t they make the <code>&lt;h1&gt;</code> smaller <em>and</em> make every other heading look smaller too? Seriously, if you go down the heirarchy enough you could have an <code>&lt;h1&gt;</code> that looks like a pathetic <code>&lt;h6&gt;</code>.</p>
+<h2 id="what-i-did">What I did</h2>
+<p>I wanted this site to use as little CSS as possible but without compromising visual design. And right now, visual design took precedence. I needed to make my <code>&lt;h1&gt;</code>s look like the most important heading there, as they are. Assert dominance and all that.</p>
+<p>So here&rsquo;s what I put:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">article</span> <span style="color:#f92672">h1</span> {
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">font-size</span>: <span style="color:#ae81ff">2</span><span style="color:#66d9ef">em</span>;
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">margin</span>: <span style="color:#ae81ff">0.67</span><span style="color:#66d9ef">em</span> <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>And yeah, if I didn&rsquo;t change the <code>margin</code> too, the <code>&lt;h1&gt;</code> would have an awful amount of space that looks pretty ridiculous. Ugh. Gotta add it in too, I guess.</p>
+<h2 id="just-a-rant">Just a rant</h2>
+<p>So yeah. I wish the other headers would, <em>at the very least</em>, get smaller too, so people like me who want to reduce on CSS get to reduce on CSS. Who on earth would want an <code>&lt;h1&gt;</code> to look like an <code>&lt;h2&gt;</code> anyway?</p>
+
+</article>
+
+<p class="greyed">
+	
+		( 
+		
+			<a href="/tags/dev/">#dev</a>, 
+			<a href="/tags/rant/">#rant</a>
+		 )
+	
+</p>
+
+
+
+
+		</main>
+		<footer>
+			<hr />
+
+<p>
+	<small>
+		Copyright 2024. All rights reserved.
+		<br />
+		With &lt;3 by <a href="https://shonk.social/@writeblankspace">writeblankspace</a>
+	</small>
+</p>
+
+		</footer>
+	</div>
+</body>
+</html>
