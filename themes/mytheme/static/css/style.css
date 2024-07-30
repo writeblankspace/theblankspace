@@ -67,6 +67,10 @@ pre span + span {
 	margin-left: 0;
 }
 
+code {
+	background-color: lightgrey;
+}
+
 /* special */
 
 .greyed {
