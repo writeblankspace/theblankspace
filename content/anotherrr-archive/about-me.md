@@ -20,6 +20,8 @@ That image is from Unsplash. It's not mine and I don't drink coffee. I don't use
 
 \*takes a deeps breath\* Yeah, just a disclaimer. You might get the wrong thing about me or something.
 
+{{< toc >}}
+
 ## Hobbies!
 
 I think Hobbies mostly define you and the things you like. Well, I have a lot of hobbies. 

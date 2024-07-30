@@ -23,6 +23,8 @@ So I'm one of those few people who barely use their phones and mostly use their 
 
 Like legit.
 
+{{< toc >}}
+
 ## The many workarounds
 
 So first of all, I usually use my computer. Then I want to post something on Instagram for something, then end up having to go to BlueStacks just to post something on Instagram. Suddenly my computer crashes because of BlueStacks.

@@ -9,6 +9,8 @@ Woohoo! You're in your Fediverse instance, and...
 
 *OH NO!* You just saw something that makes you want to bleach your eyes, and rip them eyeballs out of their sockets, and bleach them again! Or perhaps a post so horrible, you're willing to write a rather colourful 10-paragraph explanation as to why their opinions are *wrong*.
 
+{{< toc >}}
+
 ## Our scenario
 
 You're in an instance called **weLoveCats.hehe**. Yes, I know that `.hehe` is not a valid TLD, but that's because our instance here is a fake one for the sake of example.

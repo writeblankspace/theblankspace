@@ -20,6 +20,8 @@ I would very much like to tell you a dramatic story - that I was self-taught, th
 
 Alas, my story isn't like Taylor Swift's computer mechanic story. But here's mine.
 
+{{< toc >}}
+
 ## Guitar at school
 
 I thought it's cool to play guitar. So in school I enrolled for the extra-curricular activity (ECA) for guitar in year 6.

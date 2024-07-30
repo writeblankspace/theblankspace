@@ -18,6 +18,8 @@ Something a lot of beginners ask. When you begin exposure to the world of progra
 
 Python is an amazing language. When I was starting out, I tried JavaScript - but Python eventually became more ideal for me, especially since I'm not much into webdev.
 
+{{< toc >}}
+
 ## The difference between PY and JS
 
 Python and JavaScript are really similar in many ways. Both languages have been updating and evolving to support what the other has. For example, JavaScript became an object-oriented programming language to par Python.

@@ -20,6 +20,8 @@ But COVID-19 isn't just a virus. It doesn't just affect the people it infects no
 
 In other words, the virus can kill you... even if it doesn't touch anyone around you. Even if the nearest person with the virus is a kilometre away. 
 
+{{< toc >}}
+
 ## Mental health vs physical health... or both
 
 The safety precautions are there for a reason, and even though mental health is important, the deaths cannot be ignored. But at what cost?

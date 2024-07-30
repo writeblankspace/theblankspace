@@ -7,6 +7,8 @@ draft = false
 
 You might already know how to vibe-check users and instances as a Fediverse user. But there are tons of bad instances out there. A wee little user can't mute/block/report 'em all!
 
+{{< toc >}}
+
 ## Our scenario
 
 You're in an instance called **weLoveCats.hehe**. Yes, I know that `.hehe` is not a valid TLD, but that's because our instance here is a fake one for the sake of example.

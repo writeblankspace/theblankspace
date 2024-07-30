@@ -18,6 +18,8 @@ If you know me, I love metaphors to recreate things in way everyday people could
 
 Think of the virus as a video game with only one life. The stronger the virus is, the higher its level is. And our immune system has its own AI that learns how to best kill the viruses. By default, it has almost no idea.
 
+{{< toc >}}
+
 ## Practice mode: vaccines
 
 The vaccine introduces a weak virus to your body. Let's say the vaccine is like a 'practice mode'. You practice with a weak blueprint of a virus that's too weak to really kill you, but you have no idea how to kill it.

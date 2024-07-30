@@ -18,6 +18,8 @@ Sorry for not updating for several *months* but here I am! Anyways, fast-forward
 
 Note taking is important to all of us, especially students and people who are obsessive-compulsive about organisation. As far as I know, I've been through way too many note-taking apps for Windows and web. So I'd like to share my thoughts about them.
 
+{{< toc >}}
+
 ## #1 - [Notion](https://www.notion.so)
 
 ![Notion Preview](https://i.imgur.com/ik7GjxH.png)

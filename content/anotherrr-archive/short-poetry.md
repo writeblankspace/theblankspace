@@ -20,6 +20,8 @@ Oh, and you like songs based on lyrics. Especially Taylor Swift.
 
 If you're here, you probably love writing. You like making worlds out of your imagination. So I'm going to share something I learned in a windy December.
 
+{{< toc >}}
+
 ## Auroras and sad prose
 
 A quick Google search of this *The Lakes* lyric told me what proses are:
