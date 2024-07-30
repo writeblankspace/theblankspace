@@ -78,6 +78,11 @@ article, .box {
 	border: solid 1px;
 }
 
+article h1 {
+	font-size: 2em;
+	margin: 0.67em 0;
+}
+
 article + article {
 	margin-top: 1em;
 }
