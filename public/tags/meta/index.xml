@@ -6,8 +6,15 @@
     <description>Recent content in Meta on Write​_</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2024 14:33:21 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 15:31:15 +0300</lastBuildDate>
     <atom:link href="https://myblankspace.netlify.app/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://myblankspace.netlify.app/posts/about/</link>
+      <pubDate>Tue, 30 Jul 2024 15:31:15 +0300</pubDate>
+      <guid>https://myblankspace.netlify.app/posts/about/</guid>
+      <description>I dunno who&amp;rsquo;d be interested enough to view this page — or heck, even this website — but whatever. You&amp;rsquo;re here.&#xA;If you&amp;rsquo;d like to learn more about me, see my home page or visit some of my links there.</description>
+    </item>
     <item>
       <title>88x31 buttons</title>
       <link>https://myblankspace.netlify.app/posts/88x31-buttons/</link>
@@ -35,13 +42,6 @@
       <pubDate>Sun, 16 Jun 2024 11:59:15 +0300</pubDate>
       <guid>https://myblankspace.netlify.app/posts/an-update/</guid>
       <description>Hi. Let&amp;rsquo;s see, my last post here was back in 28 Jan 2024. It&amp;rsquo;s been four months!&#xA;I just finished polishing it up yesterday with some minor design changes. With the publish of this post, I got rid of a lot of cringy unhinged text on the main pages.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://myblankspace.netlify.app/posts/about/</link>
-      <pubDate>Sun, 28 Jan 2024 15:31:15 +0300</pubDate>
-      <guid>https://myblankspace.netlify.app/posts/about/</guid>
-      <description>I dunno who&amp;rsquo;d be interested enough to view this page — or heck, even this website — but if you truly are curious then feel free to scroll through all this meta stuff.</description>
     </item>
     <item>
       <title>My first post</title>
