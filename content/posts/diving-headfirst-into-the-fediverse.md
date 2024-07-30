@@ -11,6 +11,8 @@ Now, you wanna join one of these platforms. However, for a non-technical person 
 
 I'll save you the details of how the Fediverse works and let you dive headfirst into making an account, step by step.
 
+{{< toc >}}
+
 ## Note
 
 No matter what you choose for each step, the architecture of the Fediverse allows users of all platforms, software and instances to be able to interact with each other. 

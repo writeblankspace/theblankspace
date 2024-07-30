@@ -1,0 +1,9 @@
+{{ $class := .Get "class" }}
+{{ $elem := .Get "elem" }}
+{{ if not $elem }}
+	{{ $elem = "div" }}
+{{ end }}
+
+<div{{ if $class }} class="{{ $class }}"{{ end }}>
+	{{ .Inner }}
+</div>

@@ -42,6 +42,16 @@ span + span {
 	margin-left: 5px;
 }
 
+.box details {
+	padding: 16px 0 16px;
+}
+
+.box details[open] summary {
+	border-bottom: 1px solid;
+	padding-bottom: 16px;
+	margin-bottom: 16px;
+}
+
 img {
 	width: auto;
 	max-width: 100%;
