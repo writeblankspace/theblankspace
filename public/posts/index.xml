@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Write​_</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jul 2024 14:22:59 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 12:39:01 +0300</lastBuildDate>
     <atom:link href="https://myblankspace.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Purge the public dir on Hugo</title>
@@ -21,13 +21,6 @@
       <pubDate>Tue, 30 Jul 2024 19:59:42 +0300</pubDate>
       <guid>https://myblankspace.netlify.app/posts/rant-on-html5-and-h1-in-articles/</guid>
       <description>I was using Firefox&amp;rsquo;s reading mode on my site one day and thought some stuff looked off. Then I remembered: semantic elements. Maybe that&amp;rsquo;s why my site sometimes looks weird in reading mode!</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://myblankspace.netlify.app/posts/about/</link>
-      <pubDate>Tue, 30 Jul 2024 15:31:15 +0300</pubDate>
-      <guid>https://myblankspace.netlify.app/posts/about/</guid>
-      <description>I dunno who&amp;rsquo;d be interested enough to view this page — or heck, even this website — but whatever. You&amp;rsquo;re here.&#xA;If you&amp;rsquo;d like to learn more about me, see my home page or visit some of my links there.</description>
     </item>
     <item>
       <title>88x31 buttons</title>

@@ -1,13 +1,13 @@
 +++
 title = 'About'
 date = 2024-07-30T15:31:15+03:00
-tags = ['meta', 'dev']
+layout = 'simple'
 draft = false
 +++
 
 I dunno who'd be interested enough to view this page — or heck, even this website — but whatever. You're here.
 
-If you'd like to learn more about me, see my [home page](/) or visit some of my links there. If you want to learn more about this website itself, read on.
+If you'd like to learn more about *me*, see my [home page](/) or visit some of my links there. If you want to learn more about this website itself, read on.
 
 {{< toc >}}
 
@@ -40,4 +40,4 @@ The source code of this website is available on its [GitHub page]({{< params "gi
 
 That's essentially all I can tell you about myself and this website without going off on a tangent. If you would like to go down those tangents, view my [posts](/posts/)!
 
-NOTE: this page is subject to frequent change as I change and my website follows suit.
+This was last edited on: {{< partial "commit" >}}
