@@ -24,18 +24,26 @@ And... don't say I didn't warn ya.
 
 My personal homepage probably isn't complete without a couple of [88x31 buttons](posts/88x31-buttons)!
 
-{{< 88x31 "swiftie.gif" >}}
-{{< 88x31 "jointhefediverse.gif" >}}
-{{< 88x31 img="88x31.gif" url="https://cyber.dabamos.de/88x31/index.html" >}}
+{{< 88x31 "4A4A4A.png" >}}
+{{< 88x31 "88x31.gif" >}}
 {{< 88x31 "best_viewed_with_eyes.gif" >}}
 {{< 88x31 "cssdif.gif" >}}
-{{< 88x31 img="fediring.gif" url="https://fediring.net" >}}
-{{< 88x31 img="internetarchive.gif" url="https://archive.org" >}}
-{{< 88x31 img="firefox.gif" url="https://www.mozilla.org/en-US/firefox/new/" >}}
+{{< 88x31 "debtdeath-mobilefriendly.png" >}}
+{{< 88x31 "duckduckgo.png" >}}
+{{< 88x31 "fediring.gif" >}}
+{{< 88x31 "fediverse.gif" >}}
+{{< 88x31 "firefox.gif" >}}
 {{< 88x31 "gnu-linux.gif" >}}
-{{< 88x31 img="duckduckgo.png" url="https://duckduckgo.com/" >}}
-{{< 88x31 img="ublock.png" url="https://ublockorigin.com/" >}}
-{{< 88x31 img="vim.gif" url="https://www.vim.org/" >}}
+{{< 88x31 "graphite.png" >}}
+{{< 88x31 "handcoded.gif" >}}
+{{< 88x31 "internetarchive.gif" >}}
+{{< 88x31 "internetprivacynow.gif" >}}
+{{< 88x31 "jointhefediverse.gif" >}}
+{{< 88x31 "lars.png" >}}
+{{< 88x31 "mercurial.gif" >}}
+{{< 88x31 "swiftie.gif" >}}
+{{< 88x31 "ublock.png" >}}
+{{< 88x31 "vim.gif" >}}
 
 <details>
     <summary>johnvertisement</summary>
