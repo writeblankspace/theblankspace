@@ -34,7 +34,7 @@ This website is for housing and hosting and publishing whatever I want to put in
 - **Accessibility**: There are little things anybody could do to make a website more accessible, whether it's to those with visual impairments, slow internet connection, or whatever. I want to try my best to ensure accessibility in this little personal site.
 - **Personalisation**: I [once waxed poetic](../why-i-made-a-website) on how your personal website was a manifestation of yourself, made with your heart and soul. That rings true for me on here. All elements of this websie feel like *me*.
 
-The source code of this website is available on its [GitHub page](https://github.com/writeblankspace/theblankspace). If you'd like to view the older source of my website or take some inspiration or code snippets, feel free to do so!
+The source code of this website is available on its [GitHub page]({{< params "gitURL" >}}). If you'd like to view the older source of my website or take some inspiration or code snippets, feel free to do so!
 
 ## Some final words
 

@@ -1,0 +1,10 @@
+{{ $page := .Page }}
+{{ with .GitInfo }}
+		{{ $gitURL := (index site.Params "gitURL") }}
+		{{ $commitURL := (printf "%s/commits/main/public%sindex.html" $gitURL $page.RelPermalink) }}
+		<code>
+			<a href="{{ $commitURL }}">
+				{{ .AbbreviatedHash }}
+			</a>
+		</code>
+{{ end }}

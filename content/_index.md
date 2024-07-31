@@ -16,7 +16,7 @@ You can contact me through these means (sorted in terms of preference):
 
 You can read my [posts](posts/) or find out more [about this site](posts/about/).
 
-This site is written and designed by me and generated into a static site with [Hugo](https://gohugo.io). I may occasionally abandon it and leave it with horrifyingly outdated (and most likely cringy) stuff. Please notify me if that's the case.
+This site is written and designed by me and generated into a static site with [Hugo](https://gohugo.io), and was last [built on {{< lastmod >}}]({{< params "gitURL" >}}/commits/main). I may occasionally abandon it and leave it with horrifyingly outdated (and most likely cringy) stuff. Whoops.
 
 And... don't say I didn't warn ya.
 

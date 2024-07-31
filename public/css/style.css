@@ -63,12 +63,13 @@ pre:has(> code) {
 	overflow: auto;
 }
 
-pre span + span {
+code span {
 	margin-left: 0;
 }
 
 code {
-	background-color: lightgrey;
+	background-color: #ddd;
+	font-size: larger;
 }
 
 /* special */

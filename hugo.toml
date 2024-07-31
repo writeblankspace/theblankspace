@@ -5,12 +5,14 @@ theme = 'mytheme'
 
 capitalizeListTitles = false
 summaryLength = 30
+enableGitInfo = true
 
 [params]
 	baseURL = 'myblankspace.netlify.app'
 	username = 'writeblankspace'
 	displayName = 'a mercurial mess of random thoughts'
 	socialURL = 'https://shonk.social/@writeblankspace'
+	gitURL = 'https://github.com/writeblankspace/theblankspace'
 
 [menus]
 	[[menus.main]]
