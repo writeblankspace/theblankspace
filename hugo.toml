@@ -33,3 +33,6 @@ enableGitInfo = true
 
 [markup.goldmark.renderer]
 	unsafe = true
+
+[security]
+	enableInlineShortcodes = true
