@@ -6,8 +6,15 @@
     <description>Recent content on Write​_</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jul 2024 19:59:42 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 12:27:27 +0300</lastBuildDate>
     <atom:link href="https://myblankspace.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Purge the public dir on Hugo</title>
+      <link>https://myblankspace.netlify.app/posts/purge-the-public-dir-on-hugo/</link>
+      <pubDate>Wed, 31 Jul 2024 12:27:27 +0300</pubDate>
+      <guid>https://myblankspace.netlify.app/posts/purge-the-public-dir-on-hugo/</guid>
+      <description>Hey, this is just a little PSA for anyone who uses Hugo on their sites: make sure the purge public/ every so often!&#xA;One weird thing about Hugo is that it generates everything for you but, for some reason, it never checks whether or not something still exists.</description>
+    </item>
     <item>
       <title>Rant on html5 and h1 in articles</title>
       <link>https://myblankspace.netlify.app/posts/rant-on-html5-and-h1-in-articles/</link>
