@@ -1,7 +1,7 @@
 +++
 title = 'Old index page'
 date = 2024-07-23
-tags = ['anotherrr_meta']
+tags = ['anotherrrMeta']
 draft = false
 +++
 

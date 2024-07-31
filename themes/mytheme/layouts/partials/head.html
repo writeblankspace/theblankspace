@@ -5,7 +5,7 @@
 		{{ site.Title }}
 	{{ else }}
 		{{ if eq .Kind "term" }}
-			{{ printf "#%s | %s" (lower .Title) site.Title }}
+			{{ printf "#%s | %s" .Title site.Title }}
 		{{ else }}
 			{{ printf "%s | %s" .Title site.Title }}
 		{{ end }}

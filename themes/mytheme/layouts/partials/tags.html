@@ -3,7 +3,7 @@
 		{{ if . }}( {{ end }}
 		{{ range $index, $tag := . }}
 			{{- if $index }}, {{ end }}
-			<a href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
+			<a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>
 		{{- end }}
 		{{ if . }} ){{ end }}
 	{{ end }}
