@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>literature on Write​_</title>
+    <link>http://192.168.10.10:1313/tags/literature/</link>
+    <description>Recent content in literature on Write​_</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jul 2024 10:53:50 +0300</lastBuildDate>
+    <atom:link href="http://192.168.10.10:1313/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Short poetry</title>
+      <link>http://192.168.10.10:1313/anotherrr-archive/short-poetry/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://192.168.10.10:1313/anotherrr-archive/short-poetry/</guid>
+      <description>If you&amp;rsquo;re anything like me&amp;hellip; you love vivid imagery stored in writing. You find beauty in dip pens, ink, and old yellowed paper. You can make a poem out of that.</description>
+    </item>
+  </channel>
+</rss>

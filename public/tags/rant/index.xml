@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rant on Write​_</title>
+    <link>http://192.168.10.10:1313/tags/rant/</link>
+    <description>Recent content in rant on Write​_</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2024 12:16:58 +0300</lastBuildDate>
+    <atom:link href="http://192.168.10.10:1313/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rant on html5 and h1 in articles</title>
+      <link>http://192.168.10.10:1313/posts/rant-on-html5-and-h1-in-articles/</link>
+      <pubDate>Tue, 30 Jul 2024 19:59:42 +0300</pubDate>
+      <guid>http://192.168.10.10:1313/posts/rant-on-html5-and-h1-in-articles/</guid>
+      <description>I was using Firefox&amp;rsquo;s reading mode on my site one day and thought some stuff looked off. Then I remembered: semantic elements. Maybe that&amp;rsquo;s why my site sometimes looks weird in reading mode!</description>
+    </item>
+    <item>
+      <title>Instagram ranting</title>
+      <link>http://192.168.10.10:1313/anotherrr-archive/insta-rant/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://192.168.10.10:1313/anotherrr-archive/insta-rant/</guid>
+      <description>Really, why can&amp;rsquo;t Instagram be like Twitter?&#xA;So I&amp;rsquo;m one of those few people who barely use their phones and mostly use their computer. And really, I can do almost everything and more on computer, but Instagram just freaking nags you to use the phone.</description>
+    </item>
+  </channel>
+</rss>

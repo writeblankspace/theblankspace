@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fediverse on Write​_</title>
+    <link>http://192.168.10.10:1313/tags/fediverse/</link>
+    <description>Recent content in fediverse on Write​_</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2024 11:50:46 +0300</lastBuildDate>
+    <atom:link href="http://192.168.10.10:1313/tags/fediverse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How your instance admins can vibe-check other instances in the Fediverse</title>
+      <link>http://192.168.10.10:1313/posts/how-your-instance-admins-can-vibe-check-other-instances-in-the-fediverse/</link>
+      <pubDate>Mon, 22 Jul 2024 23:00:00 +0300</pubDate>
+      <guid>http://192.168.10.10:1313/posts/how-your-instance-admins-can-vibe-check-other-instances-in-the-fediverse/</guid>
+      <description>You might already know how to vibe-check users and instances as a Fediverse user. But there are tons of bad instances out there. A wee little user can&amp;rsquo;t mute/block/report &amp;rsquo;em all!</description>
+    </item>
+    <item>
+      <title>Vibe-checking in the Fediverse as a user</title>
+      <link>http://192.168.10.10:1313/posts/vibe-checking-the-fediverse-as-a-user/</link>
+      <pubDate>Mon, 22 Jul 2024 22:30:00 +0300</pubDate>
+      <guid>http://192.168.10.10:1313/posts/vibe-checking-the-fediverse-as-a-user/</guid>
+      <description>Woohoo! You&amp;rsquo;re in your Fediverse instance, and&amp;hellip;&#xA;OH NO! You just saw something that makes you want to bleach your eyes, and rip them eyeballs out of their sockets, and bleach them again!</description>
+    </item>
+    <item>
+      <title>Diving headfirst into the Fediverse</title>
+      <link>http://192.168.10.10:1313/posts/diving-headfirst-into-the-fediverse/</link>
+      <pubDate>Mon, 22 Jul 2024 22:00:00 +0300</pubDate>
+      <guid>http://192.168.10.10:1313/posts/diving-headfirst-into-the-fediverse/</guid>
+      <description>You may have heard of the emerging social media platform Mastodon. If you happen to pay even more attention, you may have also heard of those called Misskey, Pixelfed, Peertube, and such.</description>
+    </item>
+  </channel>
+</rss>

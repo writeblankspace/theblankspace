@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>waxingPoetic on Write​_</title>
+    <link>http://192.168.10.10:1313/tags/waxingpoetic/</link>
+    <description>Recent content in waxingPoetic on Write​_</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2024 12:16:58 +0300</lastBuildDate>
+    <atom:link href="http://192.168.10.10:1313/tags/waxingpoetic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I made a website</title>
+      <link>http://192.168.10.10:1313/posts/why-i-made-a-website/</link>
+      <pubDate>Thu, 25 Jul 2024 13:03:31 +0300</pubDate>
+      <guid>http://192.168.10.10:1313/posts/why-i-made-a-website/</guid>
+      <description>Short answer: why not?&#xA;The longer answer is me waxing poetic.&#xA;I&amp;rsquo;ve made a website long long ago, back in 2021. (In fact, you can still see what remains of it here.</description>
+    </item>
+  </channel>
+</rss>
