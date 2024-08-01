@@ -1,6 +1,6 @@
 +++
 title = 'Diving headfirst into the Fediverse'
-date = 2024-07-23
+date = 2024-07-22T22:00:00+03:00
 tags = ['fediverse']
 draft = false
 +++
