@@ -4,8 +4,17 @@
 	
 	<p>{{ .Summary }}</p>
 
-	{{ partial "tags" . }}
+	<div class="greyed">
+		<p>
+			{{ partial "date" . }}
 
-	{{ partial "metadata" . }}
+			{{ $this := . }}
+			{{ with .GetTerms "tags" }}
+				{{ if . }}
+					&#183; {{ partial "tags" $this }}
+				{{ end }}
+			{{ end }}
+		</p>
+	</div>
 
 </article>

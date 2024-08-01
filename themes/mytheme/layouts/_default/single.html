@@ -1,14 +1,25 @@
 {{ define "main" }}
-{{ partial "metadata" . }}
+<div class="greyed">
+	<p>
+		{{ partial "date" . }}
+		&#183;
+		{{ partial "readingtime" . }}
+	</p>
+</div>
 
 <article>
 	<h1>{{ .Title }}</h1>
 	{{ .Content }}
 </article>
 
-{{ partial "tags" . }}
-
-<p class="greyed">Last commit: {{ partial "commit" . }}</p>
-
+<div class="greyed">
+	{{ $this := . }}
+	{{ with .GetTerms "tags" }}
+		{{ if . }}
+			<p>({{ partial "tags" $this }})</p>
+		{{ end }}
+	{{ end }}
+	<p>Last commit: {{ partial "commit" . }}</p>
+</div>
 
 {{ end }}
