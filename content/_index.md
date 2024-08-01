@@ -14,7 +14,7 @@ You can contact me through these means (sorted in terms of preference):
 - **matrix**: writeblankspace[colon]waffle.tech
 - **email**: writeblankspace[at]pm.me
 
-You can read my [posts](/posts/) or find out more [about this site](/posts/about/). You may also read my [timeline](/timeline/) where I put random thoughts and journalling that doesn't fit in as an individual post.
+You can read my [posts](/posts/) or find out more [about this site](/about/). You may also read my [timeline](/timeline/) where I put random thoughts and journalling that doesn't fit in as an individual post.
 
 This site is written and designed by me and generated into a static site with [Hugo](https://gohugo.io), and was last [built on {{< lastmod >}}]({{< params "gitURL" >}}/commits/main). I may occasionally abandon it and leave it with horrifyingly outdated (and most likely cringy) stuff. Whoops.
 
