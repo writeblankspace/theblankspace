@@ -1,4 +1,4 @@
-baseURL = 'https://myblankspace.netlify.app/'
+baseURL = 'https://writeblankspace.netlify.app/'
 languageCode = 'en-us'
 title = 'Write​_'
 theme = 'mytheme'
