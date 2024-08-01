@@ -8,7 +8,7 @@ summaryLength = 30
 enableGitInfo = true
 
 [params]
-	baseURL = 'myblankspace.netlify.app'
+	baseURL = 'writeblankspace.netlify.app'
 	username = 'writeblankspace'
 	displayName = 'a mercurial mess of random thoughts'
 	socialURL = 'https://shonk.social/@writeblankspace'
