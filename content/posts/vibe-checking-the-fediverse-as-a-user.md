@@ -75,5 +75,5 @@ If all these dog posts annoy you, you might want to filter out the word "dog", o
 
 And that's some things you can do as a user to make sure your timelines pass the vibe checks and you feel nice and chill in there!
 
-However, you're just a user... you might be able to keep the unscrupulous characters out of your front door, but it takes a good police force to keep them out of your neighbourhood (okay, not the best analogy but whatever). That's where your [instance admins and moderators come in](How%20your%20instance%20admins%20can%20vibe-check%20other%20instances%20in%20the%20Fediverse.md).
+However, you're just a user... you might be able to keep the unscrupulous characters out of your front door, but it takes a good police force to keep them out of your neighbourhood (okay, not the best analogy but whatever). That's where your [instance admins and moderators come in](../how-your-instance-admins-can-vibe-check-other-instances-in-the-fediverse).
 
