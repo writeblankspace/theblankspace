@@ -17,5 +17,11 @@
 		</time> 
 	{{ end }}
 
+{{ else }}
+
+	<time datetime="{{ $pDate.Format $t }}">
+		{{ $pDate.Format $tHuman }}
+	</time> 
+
 {{ end }}
 

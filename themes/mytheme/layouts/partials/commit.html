@@ -1,10 +1,10 @@
 {{- $relPermalink := (.Page.RelPermalink | strings.TrimSuffix "/") -}}
 {{ with .GitInfo }}
-		{{ $gitURL := (index site.Params "gitURL") }}
-		{{ $commitURL := (printf "%s/commits/main/content%s.md" $gitURL $relPermalink) }}
-		{{- if .AbbreviatedHash -}}
-			<code><a href="{{ $commitURL }}">{{- .AbbreviatedHash -}}</a></code>
-		{{- else -}}
-			<code>fAk3h4#</code>
-		{{- end -}}
+	{{ $gitURL := (index site.Params "gitURL") }}
+	{{ $commitURL := (printf "%s/commits/main/content%s.md" $gitURL $relPermalink) }}
+	{{- if .AbbreviatedHash -}}
+		<code><a href="{{ $commitURL }}">{{- .AbbreviatedHash -}}</a></code>
+	{{- end -}}
+{{- else -}}
+	<code>f4k3l01</code>
 {{- end -}}
