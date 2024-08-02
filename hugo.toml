@@ -6,6 +6,7 @@ theme = 'mytheme'
 capitalizeListTitles = false
 summaryLength = 30
 enableGitInfo = true
+disableKinds = ['rss']
 
 [params]
 	baseURL = 'writeblankspace.netlify.app'
