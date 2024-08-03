@@ -2,26 +2,15 @@
 {{ $tHuman := "02 Jan 2006" }}
 
 {{ $pDate := .PublishDate }}
+{{ $mDate := .Lastmod }}
 
-{{ with .GitInfo }}
-
-	{{ $mDate := .CommitDate }}
-	{{ if ne ($mDate.Format $tHuman) ($pDate.Format $tHuman) }}
-		Edited 
-		<time datetime="{{ $mDate.Format $t }}">
-			{{ $mDate.Format $tHuman }}
-		</time>
-	{{ else }}
-		<time datetime="{{ $pDate.Format $t }}">
-			{{ $pDate.Format $tHuman }}
-		</time> 
-	{{ end }}
-
+{{ if ne ($mDate.Format $tHuman) ($pDate.Format $tHuman) }}
+	Edited 
+	<time datetime="{{ $mDate.Format $t }}">
+		{{ $mDate.Format $tHuman }}
+	</time>
 {{ else }}
-
 	<time datetime="{{ $pDate.Format $t }}">
 		{{ $pDate.Format $tHuman }}
 	</time> 
-
 {{ end }}
-

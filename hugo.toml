@@ -28,6 +28,9 @@ enableGitInfo = true
 		pageRef = '/tags/'
 		weight = 30
 
+[frontmatter]
+	lastmod = ['lastmod', 'date', 'publishdate', 'pubdate', 'published', ':default']
+
 [pagination]
 	pagerSize = 5
 

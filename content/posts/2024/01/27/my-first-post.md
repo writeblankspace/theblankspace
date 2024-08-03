@@ -1,6 +1,7 @@
 +++
 title = 'My first post'
 date = 2024-01-27T11:52:50+03:00
+lastmod = 2024-07-16
 tags = ['meta']
 draft = false
 +++
