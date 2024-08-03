@@ -13,7 +13,7 @@ One of the things I did was change some `<div>`s into `<article>`s. I suppose it
 
 ## The problem
 
-Today, I edited my [about page](../about) and condensed and freshened it up a bit. I also added table of contents to every page where relevant. Then I noticed something strange: my `<h2>`s were the *exact* same size as the title of the article, which was an `<h1>`.
+Today, I edited my [about page](/about) and condensed and freshened it up a bit. I also added table of contents to every page where relevant. Then I noticed something strange: my `<h2>`s were the *exact* same size as the title of the article, which was an `<h1>`.
 
 Perplexed, I went to DuckDuckGo and searched up my problem.
 

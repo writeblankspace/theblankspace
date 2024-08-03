@@ -22,7 +22,7 @@ And... don't say I didn't warn ya.
 
 ## Buttons!
 
-My personal homepage probably isn't complete without a couple of [88x31 buttons](posts/88x31-buttons)!
+My personal homepage probably isn't complete without a couple of [88x31 buttons](/posts/2024/07/29/88x31-buttons)!
 
 {{< 88x31 "4A4A4A.png" >}}
 {{< 88x31 "88x31.gif" >}}
