@@ -5,6 +5,8 @@ html {
 	overflow-wrap: break-word;
   	height: 100%;
   	width: 100%;
+	line-height: 1.6;
+	font-size: 110%;
 }
 
 body {
