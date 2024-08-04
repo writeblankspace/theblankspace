@@ -13,6 +13,7 @@ enableGitInfo = true
 	displayName = 'a mercurial mess of random thoughts'
 	socialURL = 'https://shonk.social/@writeblankspace'
 	gitURL = 'https://github.com/writeblankspace/theblankspace'
+	css = 'style.css'
 
 [menus]
 	[[menus.main]]

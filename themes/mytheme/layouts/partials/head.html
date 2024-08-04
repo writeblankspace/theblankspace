@@ -11,4 +11,6 @@
 		{{ end }}
 	{{ end }}
 </title>
-<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
+{{ if ne site.Params.css "" }}
+	<link rel="stylesheet" href="/css/{{ site.Params.css }}" type="text/css" media="all" />
+{{ end }}
