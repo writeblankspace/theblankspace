@@ -28,6 +28,10 @@ enableGitInfo = true
 		name = 'Tags'
 		pageRef = '/tags/'
 		weight = 30
+	[[menus.main]]
+		name = 'Timeline'
+		pageRef = '/timeline/'
+		weight = 40
 
 [frontmatter]
 	lastmod = ['lastmod', 'date', 'publishdate', 'pubdate', 'published', ':default']
