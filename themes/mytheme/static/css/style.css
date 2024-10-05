@@ -87,10 +87,6 @@ code {
 }
 
 article {
-	&, .box {
-		padding: 0 16px;
-		border: solid 1px;
-	}
 	& h1 {
 		font-size: 2em;
 		margin: 0.67em 0;
@@ -100,6 +96,10 @@ article {
 	}
 }
 
+article, .box {
+	padding: 0 16px;
+	border: solid 1px;
+}
 
 header, #pagination, footer {
 	text-align: center;
