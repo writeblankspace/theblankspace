@@ -11,7 +11,7 @@ enableGitInfo = true
 	baseURL = 'writeblankspace.netlify.app'
 	username = 'writeblankspace'
 	displayName = 'a mercurial mess of random thoughts'
-	socialURL = 'https://shonk.social/@writeblankspace'
+	socialURL = 'https://plasmatrap.com/@writeblankspace'
 	gitURL = 'https://github.com/writeblankspace/theblankspace'
 	css = 'style.css'
 
