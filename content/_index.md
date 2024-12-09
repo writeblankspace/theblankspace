@@ -10,7 +10,7 @@ I'm ***{{< params "displayName" >}}***, tech enthusiast, music lover and full-ti
 
 You can contact me through these means (sorted in terms of preference):
 
-- **fediverse**: writeblankspace[at]shonk.social
+- **fediverse**: writeblankspace[at]plasmatrap.com
 - **matrix**: writeblankspace[colon]waffle.tech
 - **XMPP**: writeblankspace[at]conversations.im
 - **email**: writeblankspace[at]pm.me
