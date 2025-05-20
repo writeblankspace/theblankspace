@@ -32,6 +32,10 @@ enableGitInfo = true
 		pageRef = '/timeline/'
 		weight = 40
 
+[services]
+	[services.rss]
+		limit = 20
+
 [frontmatter]
 	lastmod = ['lastmod', 'date', 'publishdate', 'pubdate', 'published', ':default']
 
