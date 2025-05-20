@@ -1,7 +1,6 @@
 baseURL = 'https://writeblankspace.netlify.app/'
 languageCode = 'en-us'
 title = 'Write​_'
-theme = 'mytheme'
 
 capitalizeListTitles = false
 summaryLength = 30
